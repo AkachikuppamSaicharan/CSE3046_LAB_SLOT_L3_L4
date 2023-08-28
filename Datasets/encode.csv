@@ -1,0 +1,5001 @@
+,city,hml,target
+1,Hartford,Medium,No
+2,Athens-Clarke,Low,No
+3,Pasco,Low,Yes
+4,Nashua,High,No
+5,Bellflower,High,No
+6,Kendall,Low,Yes
+7,Hartford,Low,No
+8,Detroit,High,No
+9,Findlay,High,No
+10,Bloomfield,Medium,No
+11,Bellflower,Low,No
+12,North Bethesda,High,No
+13,Kalamazoo,High,No
+14,Waterbury,Medium,No
+15,Minnetonka,High,No
+16,Cherry Hill,Medium,No
+17,Toledo,Low,No
+18,North Bethesda,High,No
+19,DeKalb,High,No
+20,Fort Worth,Medium,No
+21,Concord,High,No
+22,NA,High,No
+23,Turlock,Medium,No
+24,NA,High,No
+25,Joliet,Medium,No
+26,Cherry Hill,Medium,No
+27,Hoboken,Low,No
+28,Florence-Graham,Medium,No
+29,Yonkers,Low,Yes
+30,Findlay,NA,No
+31,Elizabeth,Low,No
+32,Westminster,Medium,No
+33,Citrus Heights,High,No
+34,Fort Smith,High,No
+35,Hoboken,High,No
+36,Battle Creek,High,No
+37,Fort Worth,High,No
+38,Bryan,Medium,No
+39,Hemet,Low,Yes
+40,Kendall,Medium,No
+41,Joliet,Medium,No
+42,Grand Island,Low,No
+43,Blacksburg,Medium,No
+44,Saint Louis Park,Low,No
+45,Salt Lake City,Medium,No
+46,Sarasota,Low,No
+47,Charleston,High,No
+48,Fort Myers,Medium,Yes
+49,Hartford,Medium,No
+50,Minnetonka,Medium,No
+51,Chandler,High,No
+52,Chandler,Medium,No
+53,Gilbert,Medium,No
+54,Cherry Hill,Low,No
+55,West Sacramento,Low,No
+56,Gilbert,High,No
+57,NA,Low,No
+58,Franconia,High,No
+59,Fond du Lac,Medium,No
+60,Dothan,Medium,No
+61,Fort Wayne,NA,Yes
+62,Hartford,Medium,No
+63,Bellflower,NA,Yes
+64,Mansfield,Low,Yes
+65,Walnut Creek,High,No
+66,Ames,Low,Yes
+67,Turlock,High,No
+68,Carson,High,Yes
+69,Chico,Low,No
+70,Boynton Beach,Low,No
+71,Passaic,Medium,No
+72,Joliet,Medium,Yes
+73,Grand Island,Medium,No
+74,Joliet,Low,Yes
+75,Gilbert,Medium,No
+76,Pittsburgh,Low,No
+77,Findlay,High,No
+78,Kendall,Low,No
+79,Grand Island,Medium,No
+80,Cary,Medium,No
+81,Fond du Lac,Low,No
+82,West Sacramento,Medium,No
+83,Bellflower,Medium,No
+84,Alameda,High,No
+85,Bellflower,High,No
+86,Yonkers,Low,No
+87,Kendall,NA,No
+88,West Orange,High,No
+89,Hattiesburg,High,No
+90,Ellicott City,Low,No
+91,Indio,Medium,No
+92,Bolingbrook,Medium,Yes
+93,Lynwood,Medium,No
+94,Glendora,Low,Yes
+95,Shelby,Medium,No
+96,Walnut Creek,Medium,No
+97,Peoria,Low,No
+98,Mansfield,Low,No
+99,Wilkes-Barre,High,No
+100,Westminster,Low,Yes
+101,NA,High,No
+102,Sioux City,High,No
+103,Walnut Creek,Low,No
+104,Cary,Medium,No
+105,Wheaton-Glenmont,Medium,No
+106,Newport News,Low,No
+107,Hattiesburg,Low,No
+108,San Buenaventura,Low,No
+109,Dothan,High,No
+110,Mansfield,Medium,No
+111,Cary,High,No
+112,Passaic,Low,Yes
+113,NA,Medium,Yes
+114,Westminster,Low,No
+115,Yonkers,Low,Yes
+116,Yonkers,Medium,Yes
+117,Florence-Graham,Low,No
+118,Alameda,High,No
+119,Walnut Creek,High,No
+120,Pasco,High,No
+121,Austin,High,No
+122,Lynwood,Low,Yes
+123,Peoria,Low,No
+124,NA,Low,No
+125,Chandler,Medium,Yes
+126,Detroit,Low,No
+127,Westminster,High,No
+128,Pocatello,Medium,No
+129,Kalamazoo,High,No
+130,Glendora,Medium,No
+131,Garden Grove,Low,No
+132,Woodland,High,No
+133,Somerville,Low,No
+134,Beaverton,High,No
+135,Chandler,High,No
+136,Hemet,High,No
+137,Wheaton-Glenmont,Low,No
+138,Concord,Medium,No
+139,Chandler,Medium,No
+140,Turlock,Medium,No
+141,NA,High,No
+142,Woodland,High,No
+143,Yonkers,High,No
+144,Fort Myers,Low,Yes
+145,Shelby,High,No
+146,Topeka,High,Yes
+147,Minnetonka,High,No
+148,Toledo,Medium,No
+149,Athens-Clarke,Low,No
+150,Broken Arrow,Low,No
+151,Hilo,Low,Yes
+152,Findlay,Low,No
+153,Saint Louis Park,Low,No
+154,Pasco,High,No
+155,Joliet,Medium,No
+156,Rockford,High,No
+157,Pocatello,Medium,No
+158,Overland Park,Medium,No
+159,Woodland,High,No
+160,Broken Arrow,Medium,No
+161,Concord,Medium,No
+162,Lynwood,Low,No
+163,DeKalb,Low,Yes
+164,Franconia,High,No
+165,Alameda,Low,No
+166,Vacaville,Medium,No
+167,Kalamazoo,High,No
+168,NA,NA,Yes
+169,Dothan,Low,No
+170,Chico,NA,No
+171,San Buenaventura,High,No
+172,Overland Park,Medium,No
+173,NA,Low,No
+174,Florence-Graham,Low,Yes
+175,Sarasota,NA,No
+176,NA,Medium,No
+177,Bridgewater,Medium,No
+178,Garden Grove,High,No
+179,Westminster,High,No
+180,Pearland,Medium,No
+181,Beaverton,High,No
+182,Peoria,Medium,No
+183,Jupiter,Low,Yes
+184,DeKalb,Medium,Yes
+185,NA,High,No
+186,Pearland,Low,No
+187,Bellflower,Medium,No
+188,Turlock,High,No
+189,San Clemente,Medium,Yes
+190,Peoria,High,No
+191,Mansfield,Low,No
+192,Montgomery Village,Low,No
+193,Pocatello,Low,No
+194,Hattiesburg,Medium,No
+195,Concord,High,No
+196,NA,Medium,No
+197,Hartford,NA,Yes
+198,Rockford,Low,Yes
+199,Newport News,Low,No
+200,Montgomery Village,Medium,No
+201,Fort Wayne,High,No
+202,Vacaville,Medium,No
+203,Gilbert,Low,No
+204,NA,Low,No
+205,NA,Medium,No
+206,Glendora,High,No
+207,Cherry Hill,Low,No
+208,Hattiesburg,Medium,No
+209,Topeka,Low,No
+210,Athens-Clarke,Medium,No
+211,Elizabeth,Low,Yes
+212,Eau Claire,Medium,No
+213,Shelby,Medium,No
+214,Concord,High,No
+215,Kalamazoo,High,No
+216,Detroit,NA,No
+217,Hilo,Low,No
+218,NA,Low,Yes
+219,Passaic,NA,No
+220,Franconia,High,No
+221,Bloomfield,High,No
+222,Mansfield,High,No
+223,Pasco,Low,No
+224,Cherry Hill,High,No
+225,Pittsburgh,High,No
+226,Ellicott City,Medium,No
+227,Vacaville,Low,Yes
+228,Edinburg,High,No
+229,Boynton Beach,High,No
+230,Alameda,Low,No
+231,Turlock,Low,No
+232,North Bethesda,Medium,No
+233,Glendora,Low,Yes
+234,Charleston,High,No
+235,Florence-Graham,High,No
+236,Rockford,High,No
+237,Westminster,Low,No
+238,Fort Smith,High,No
+239,Minnetonka,Medium,No
+240,Indio,Medium,No
+241,Indio,Medium,Yes
+242,Turlock,Low,No
+243,Cary,Low,No
+244,Indio,Medium,No
+245,NA,Low,No
+246,Crystal Lake,Medium,Yes
+247,Kalamazoo,High,No
+248,Westminster,Medium,No
+249,Edinburg,High,No
+250,Wilkes-Barre,High,No
+251,Woodland,High,No
+252,Pasco,Medium,No
+253,Athens-Clarke,High,No
+254,Overland Park,High,No
+255,Hartford,High,No
+256,Apple Valley,Medium,No
+257,Vacaville,Medium,Yes
+258,Kendall,Low,No
+259,Cary,Low,Yes
+260,Saint Louis Park,Low,No
+261,Yonkers,Low,Yes
+262,Fort Worth,Medium,No
+263,Waterbury,High,No
+264,Edinburg,Low,Yes
+265,Rockford,Low,No
+266,NA,Low,Yes
+267,DeKalb,Medium,No
+268,Somerville,Low,Yes
+269,Dothan,Medium,No
+270,Hemet,High,No
+271,Waterbury,Medium,No
+272,Toledo,High,No
+273,Apple Valley,Low,No
+274,Joliet,Low,No
+275,Wheaton-Glenmont,High,No
+276,Mansfield,High,No
+277,Wilson,Medium,No
+278,Bridgewater,Medium,No
+279,Apple Valley,Medium,No
+280,Watsonville,Medium,No
+281,Joliet,Low,No
+282,Wilkes-Barre,High,No
+283,Fort Worth,Medium,Yes
+284,Yonkers,Medium,No
+285,NA,Medium,No
+286,North Bethesda,High,No
+287,Indio,High,No
+288,Jupiter,Medium,No
+289,Elizabeth,Medium,No
+290,Jupiter,High,No
+291,Wilkes-Barre,Medium,No
+292,West Sacramento,Low,Yes
+293,Racine,Low,No
+294,Detroit,Low,Yes
+295,Nashua,High,No
+296,Charleston,Medium,No
+297,Cary,Low,Yes
+298,Pharr,High,No
+299,Overland Park,Medium,No
+300,Topeka,NA,Yes
+301,Ellicott City,Medium,No
+302,Eau Claire,High,No
+303,Franconia,Low,No
+304,North Bethesda,Medium,Yes
+305,Kalamazoo,Low,Yes
+306,Broken Arrow,Medium,No
+307,Chico,Low,Yes
+308,Woodland,NA,Yes
+309,DeKalb,Medium,No
+310,Minneapolis,Low,No
+311,Garden Grove,NA,Yes
+312,West Orange,Low,Yes
+313,Glendora,High,No
+314,Bellflower,High,No
+315,Ellicott City,Medium,Yes
+316,Findlay,NA,Yes
+317,Wheaton-Glenmont,Medium,No
+318,Wilkes-Barre,Medium,No
+319,Waterbury,High,No
+320,San Clemente,High,No
+321,Florence-Graham,Medium,No
+322,NA,Medium,Yes
+323,Joliet,Medium,No
+324,Fort Wayne,Medium,Yes
+325,Boynton Beach,Medium,No
+326,NA,High,No
+327,Crystal Lake,Medium,No
+328,NA,Low,No
+329,Fort Smith,High,No
+330,Hamilton,Low,No
+331,Westland,High,No
+332,Pharr,High,No
+333,Dothan,Medium,No
+334,Garden Grove,High,No
+335,Lynwood,Low,Yes
+336,Pittsburgh,NA,No
+337,NA,Low,No
+338,NA,Medium,No
+339,Elizabeth,Low,Yes
+340,Indio,Low,No
+341,Gilbert,High,No
+342,NA,Medium,No
+343,Cherry Hill,Medium,No
+344,Fort Wayne,Low,No
+345,Boynton Beach,Medium,No
+346,Turlock,NA,Yes
+347,Carson,Medium,No
+348,Indio,Low,Yes
+349,Franconia,NA,Yes
+350,Bloomfield,High,No
+351,Joliet,Low,No
+352,Pittsburgh,Low,Yes
+353,Pasco,High,No
+354,Nashua,Medium,No
+355,Mansfield,Low,No
+356,Watsonville,High,No
+357,Edinburg,Low,No
+358,Minneapolis,High,No
+359,Cherry Hill,Medium,No
+360,Fort Smith,High,No
+361,Rockford,High,No
+362,Waterbury,NA,No
+363,Yonkers,Low,No
+364,Saint Louis Park,Medium,No
+365,NA,Low,No
+366,Montgomery Village,Low,Yes
+367,Pittsburgh,Low,No
+368,Bolingbrook,High,No
+369,Minneapolis,Low,No
+370,Montgomery Village,Medium,No
+371,Somerville,Low,No
+372,Nashua,Low,No
+373,Kalamazoo,High,No
+374,Crystal Lake,Low,No
+375,Salt Lake City,Low,No
+376,Eau Claire,Low,No
+377,Nashua,High,No
+378,Mesa,Low,No
+379,Woodland,High,No
+380,Hoboken,High,No
+381,Bryan,Medium,No
+382,North Bethesda,High,No
+383,Bridgewater,High,No
+384,Rockford,Low,No
+385,Fort Wayne,Medium,No
+386,Hemet,Medium,No
+387,Watsonville,High,No
+388,Racine,NA,No
+389,North Bethesda,Low,No
+390,Elizabeth,Low,Yes
+391,North Bethesda,High,No
+392,Gilbert,Medium,No
+393,Wheaton-Glenmont,Medium,No
+394,Carson,Low,No
+395,Hilo,High,No
+396,San Clemente,Medium,No
+397,NA,Medium,No
+398,Garden Grove,Medium,No
+399,Grand Island,Low,No
+400,NA,NA,No
+401,Westland,Low,No
+402,Detroit,High,No
+403,Athens-Clarke,Low,Yes
+404,Toledo,Medium,Yes
+405,NA,Medium,No
+406,Hartford,Low,Yes
+407,Ames,Medium,No
+408,Fort Smith,NA,No
+409,Newport News,Low,Yes
+410,Blacksburg,Medium,No
+411,Yorba Linda,Medium,No
+412,Jupiter,High,No
+413,Ellicott City,Low,Yes
+414,Wheaton-Glenmont,High,No
+415,Jupiter,High,No
+416,Grand Island,Medium,No
+417,Yonkers,Medium,No
+418,Pocatello,Low,No
+419,Waterbury,Low,No
+420,Woodland,High,No
+421,Fort Myers,Low,No
+422,Bellflower,Medium,No
+423,Alameda,Low,No
+424,Waterbury,High,No
+425,Carson,Medium,No
+426,DeKalb,Medium,No
+427,Minneapolis,Medium,No
+428,Minneapolis,High,No
+429,Cherry Hill,High,No
+430,Concord,Medium,No
+431,NA,Medium,No
+432,Kendall,High,No
+433,Franconia,Medium,No
+434,Florence-Graham,Low,Yes
+435,Fond du Lac,Low,No
+436,Turlock,Medium,No
+437,Ellicott City,Low,No
+438,NA,Low,Yes
+439,Walnut Creek,High,No
+440,Bryan,NA,Yes
+441,West Orange,Medium,No
+442,Carson,Low,No
+443,Fond du Lac,Medium,No
+444,Fort Myers,Low,Yes
+445,Bridgewater,High,No
+446,Ames,Medium,No
+447,Nashua,Low,No
+448,Fort Myers,High,No
+449,Indio,Low,Yes
+450,Alameda,Low,No
+451,DeKalb,Medium,No
+452,Saint Louis Park,High,No
+453,Glendora,Medium,Yes
+454,North Bethesda,Medium,No
+455,Vacaville,High,No
+456,Citrus Heights,Low,No
+457,Wilson,High,No
+458,Rockford,High,No
+459,Bolingbrook,High,No
+460,Franconia,Medium,No
+461,Hattiesburg,Medium,No
+462,Pocatello,Medium,No
+463,Newport News,Low,Yes
+464,Apple Valley,High,No
+465,Minnetonka,Low,No
+466,Nashua,High,No
+467,Edinburg,Low,No
+468,Peoria,High,No
+469,Battle Creek,Medium,No
+470,Bellflower,Low,No
+471,Racine,Medium,No
+472,NA,Low,No
+473,West Orange,Low,Yes
+474,Turlock,Low,No
+475,Pasco,High,No
+476,Findlay,Low,No
+477,Glendora,Medium,No
+478,Passaic,Medium,No
+479,Cherry Hill,Low,Yes
+480,Hilo,High,No
+481,Beaverton,Medium,No
+482,West Sacramento,Medium,No
+483,Yorba Linda,High,Yes
+484,Franconia,Low,No
+485,Wilkes-Barre,Low,Yes
+486,Pharr,High,No
+487,Watsonville,Low,Yes
+488,Walnut Creek,Low,No
+489,Crystal Lake,Low,No
+490,Yonkers,Low,No
+491,Minneapolis,Low,Yes
+492,Findlay,Low,No
+493,Boynton Beach,Low,No
+494,Elizabeth,High,No
+495,Crystal Lake,Medium,No
+496,Sarasota,Medium,No
+497,Yonkers,Medium,Yes
+498,Saint Louis Park,NA,No
+499,Pleasanton,Medium,No
+500,Pearland,High,No
+501,Wilkes-Barre,Medium,No
+502,Ellicott City,Medium,No
+503,Westminster,Medium,No
+504,Westminster,Low,Yes
+505,Minnetonka,High,No
+506,Florence-Graham,Low,No
+507,Pocatello,Low,No
+508,Chandler,Low,Yes
+509,Hoboken,High,No
+510,Wilson,Low,Yes
+511,Yonkers,Medium,No
+512,Toledo,NA,Yes
+513,Shelby,Medium,No
+514,Crystal Lake,Low,Yes
+515,Pittsburgh,Medium,No
+516,Wilkes-Barre,Medium,No
+517,Fort Wayne,Low,No
+518,Apple Valley,High,No
+519,Crystal Lake,High,No
+520,Overland Park,NA,Yes
+521,Gilbert,Medium,No
+522,Crystal Lake,Medium,No
+523,Chico,High,No
+524,Vacaville,Low,No
+525,Crystal Lake,Medium,No
+526,Passaic,High,No
+527,Glendora,Low,No
+528,Crystal Lake,Low,Yes
+529,Battle Creek,High,No
+530,Sioux City,High,No
+531,Concord,Medium,No
+532,Kalamazoo,High,No
+533,Fort Myers,Medium,No
+534,Franconia,High,No
+535,Shelby,High,No
+536,San Clemente,Low,Yes
+537,West Orange,High,No
+538,Wilson,Low,No
+539,Fort Wayne,Low,Yes
+540,Hemet,Medium,No
+541,Citrus Heights,Low,Yes
+542,Bryan,Low,Yes
+543,Shelby,Low,Yes
+544,Franconia,High,No
+545,NA,Low,No
+546,Concord,NA,No
+547,Joliet,High,No
+548,Sarasota,Low,No
+549,Crystal Lake,Medium,No
+550,Turlock,High,No
+551,Cary,NA,No
+552,Mesa,High,Yes
+553,Battle Creek,Medium,No
+554,Beaverton,NA,No
+555,Cherry Hill,Medium,No
+556,Mesa,Medium,No
+557,San Clemente,High,No
+558,Hattiesburg,High,No
+559,Kendall,Low,Yes
+560,Wilkes-Barre,High,No
+561,Dothan,Low,No
+562,Garden Grove,Medium,No
+563,Hilo,Medium,Yes
+564,Waterbury,NA,Yes
+565,Pittsburgh,High,No
+566,Yorba Linda,High,No
+567,NA,NA,No
+568,Watsonville,Medium,No
+569,Franconia,Low,No
+570,Edinburg,High,No
+571,Rockford,Low,Yes
+572,Topeka,Low,No
+573,Chico,High,No
+574,Pearland,Medium,No
+575,NA,Low,Yes
+576,NA,High,No
+577,Indio,High,No
+578,Woodland,High,No
+579,Newport News,Low,No
+580,Haverhill,Medium,No
+581,Pharr,High,No
+582,San Clemente,Medium,No
+583,Apple Valley,High,No
+584,Haverhill,Low,No
+585,Austin,Low,No
+586,Saint Louis Park,Medium,No
+587,Citrus Heights,Low,No
+588,Kalamazoo,NA,No
+589,Overland Park,High,No
+590,Bridgewater,NA,No
+591,Hartford,Medium,Yes
+592,Vacaville,Medium,No
+593,Pittsburgh,High,No
+594,Jupiter,High,No
+595,Montgomery Village,Medium,No
+596,Salt Lake City,Low,No
+597,Pleasanton,Medium,No
+598,Woodland,Low,Yes
+599,Ames,Medium,No
+600,Somerville,Low,No
+601,Chico,High,No
+602,Waterbury,Low,Yes
+603,Bridgewater,Medium,No
+604,North Bethesda,Medium,No
+605,Battle Creek,NA,Yes
+606,Waterbury,Medium,No
+607,Vacaville,Low,No
+608,Cary,Medium,No
+609,Florence-Graham,Medium,Yes
+610,Hilo,High,No
+611,Minneapolis,High,No
+612,Wilkes-Barre,Low,No
+613,Hilo,Medium,No
+614,Saint Louis Park,Low,No
+615,Pocatello,High,No
+616,Grand Island,High,No
+617,Yonkers,NA,No
+618,Topeka,Low,Yes
+619,Cherry Hill,Medium,No
+620,NA,High,No
+621,Salt Lake City,Medium,No
+622,Detroit,Low,Yes
+623,Athens-Clarke,High,No
+624,Battle Creek,Medium,Yes
+625,Elizabeth,Medium,No
+626,Waterbury,High,No
+627,Eau Claire,Medium,No
+628,Woodland,High,No
+629,Westland,High,No
+630,West Sacramento,High,No
+631,Pearland,Low,No
+632,Bolingbrook,High,No
+633,Pittsburgh,Low,Yes
+634,Fond du Lac,Medium,No
+635,Findlay,Low,No
+636,Yonkers,High,No
+637,Walnut Creek,Medium,No
+638,Woodland,High,No
+639,Fort Smith,Medium,No
+640,Blacksburg,High,No
+641,Fort Myers,NA,Yes
+642,Montgomery Village,High,No
+643,Waterbury,Medium,No
+644,Eau Claire,Low,Yes
+645,Pleasanton,Low,No
+646,NA,Low,No
+647,Austin,Low,No
+648,Pocatello,Low,No
+649,Watsonville,NA,No
+650,West Sacramento,Medium,No
+651,Austin,High,No
+652,Peoria,High,No
+653,Saint Louis Park,Medium,No
+654,Pharr,Medium,No
+655,Hartford,Low,No
+656,Bryan,Medium,No
+657,Crystal Lake,High,No
+658,Athens-Clarke,NA,Yes
+659,Joliet,Medium,Yes
+660,Peoria,Medium,No
+661,Fort Worth,High,No
+662,Alameda,Medium,No
+663,Woodland,Low,No
+664,DeKalb,Low,No
+665,NA,Medium,No
+666,Minnetonka,Medium,No
+667,NA,Medium,No
+668,Wilkes-Barre,Medium,No
+669,Chico,Low,No
+670,Hoboken,Low,No
+671,Hattiesburg,Medium,No
+672,Saint Louis Park,Low,No
+673,Bellflower,High,No
+674,Toledo,Medium,No
+675,Westminster,High,No
+676,Joliet,Low,No
+677,Franconia,Low,Yes
+678,Beaverton,Medium,No
+679,DeKalb,Medium,No
+680,Florence-Graham,Low,No
+681,Athens-Clarke,High,No
+682,San Buenaventura,Medium,No
+683,Hoboken,High,No
+684,Beaverton,Medium,No
+685,Vacaville,Low,No
+686,Lynwood,High,No
+687,Elizabeth,High,No
+688,Kalamazoo,High,No
+689,Saint Louis Park,Medium,No
+690,Sarasota,High,No
+691,Findlay,High,No
+692,NA,High,No
+693,Woodland,Low,No
+694,Charleston,Low,Yes
+695,Vacaville,Low,No
+696,Mesa,NA,No
+697,Kendall,Low,No
+698,NA,High,No
+699,Fort Smith,NA,Yes
+700,Minnetonka,High,No
+701,Hartford,NA,Yes
+702,Turlock,High,No
+703,Concord,High,No
+704,Elizabeth,Low,Yes
+705,Sioux City,Medium,Yes
+706,Eau Claire,High,No
+707,Detroit,Low,No
+708,North Bethesda,Low,No
+709,Hoboken,Medium,No
+710,Wheaton-Glenmont,Medium,No
+711,NA,Low,Yes
+712,NA,Medium,No
+713,Elizabeth,Medium,No
+714,Detroit,Medium,No
+715,Blacksburg,Low,No
+716,Vacaville,Low,No
+717,Toledo,Medium,No
+718,Florence-Graham,High,No
+719,Racine,Medium,No
+720,Waterbury,Low,No
+721,Overland Park,High,No
+722,Carson,Medium,No
+723,Joliet,High,No
+724,Garden Grove,High,No
+725,Findlay,Low,No
+726,Racine,Low,Yes
+727,Fort Smith,High,No
+728,NA,NA,No
+729,Jupiter,Low,No
+730,Mansfield,High,No
+731,Pittsburgh,Low,No
+732,Watsonville,High,No
+733,Fort Wayne,Medium,No
+734,Fond du Lac,Medium,No
+735,San Clemente,High,No
+736,Florence-Graham,NA,Yes
+737,Cary,Medium,No
+738,Wheaton-Glenmont,Medium,No
+739,Woodland,Medium,No
+740,Newport News,Medium,No
+741,Somerville,Medium,No
+742,Alameda,High,No
+743,Cary,NA,Yes
+744,Kendall,High,No
+745,Shelby,Medium,No
+746,Bryan,Medium,No
+747,Edinburg,Medium,No
+748,Bloomfield,Medium,No
+749,Overland Park,NA,Yes
+750,Franconia,Medium,No
+751,Sarasota,Medium,No
+752,Bloomfield,Low,Yes
+753,Grand Island,Medium,No
+754,Charleston,High,No
+755,Wheaton-Glenmont,Low,Yes
+756,Dothan,Medium,No
+757,West Sacramento,Low,Yes
+758,Austin,High,No
+759,Chico,Low,No
+760,Cherry Hill,Medium,No
+761,Mansfield,High,No
+762,Westland,Medium,No
+763,Crystal Lake,NA,Yes
+764,West Orange,Medium,No
+765,Walnut Creek,Low,Yes
+766,West Orange,Low,No
+767,NA,Medium,No
+768,Montgomery Village,Low,Yes
+769,Saint Louis Park,NA,No
+770,NA,High,No
+771,Westland,Medium,Yes
+772,Hartford,NA,Yes
+773,Bridgewater,Low,No
+774,Ames,Low,No
+775,Charleston,Medium,No
+776,Charleston,High,No
+777,Elizabeth,Low,No
+778,Hemet,Medium,No
+779,Somerville,High,No
+780,Eau Claire,Low,No
+781,Nashua,Medium,No
+782,Fort Wayne,Medium,No
+783,Pharr,Medium,No
+784,Pasco,Medium,No
+785,Findlay,Medium,No
+786,Broken Arrow,Medium,Yes
+787,Fort Worth,Medium,No
+788,Pearland,Low,No
+789,NA,Medium,No
+790,San Buenaventura,High,No
+791,Montgomery Village,NA,No
+792,Hoboken,High,No
+793,Kalamazoo,High,No
+794,Montgomery Village,High,No
+795,Glendora,NA,No
+796,Beaverton,High,No
+797,Pearland,NA,No
+798,NA,Low,No
+799,Yorba Linda,Low,No
+800,Overland Park,Low,Yes
+801,Mansfield,Medium,No
+802,Hilo,Medium,No
+803,Hamilton,Medium,No
+804,Cary,Low,No
+805,Mansfield,Medium,Yes
+806,NA,Low,Yes
+807,Yorba Linda,High,No
+808,Fort Worth,Medium,No
+809,Chico,High,No
+810,Pleasanton,Low,No
+811,Florence-Graham,Medium,No
+812,Shelby,Medium,No
+813,Kalamazoo,Medium,No
+814,Hemet,Medium,No
+815,Blacksburg,Medium,No
+816,Walnut Creek,High,No
+817,West Orange,High,No
+818,Battle Creek,High,No
+819,Hamilton,High,No
+820,Hamilton,High,No
+821,Topeka,High,No
+822,Carson,High,No
+823,Charleston,Low,No
+824,Yorba Linda,Low,No
+825,Cherry Hill,Medium,No
+826,Minnetonka,Medium,No
+827,Pharr,High,No
+828,DeKalb,High,No
+829,Fort Myers,Low,Yes
+830,NA,High,No
+831,Hartford,High,No
+832,Beaverton,Medium,No
+833,Edinburg,Low,No
+834,Detroit,NA,No
+835,Waterbury,Low,No
+836,Sarasota,Medium,No
+837,West Orange,Low,Yes
+838,Crystal Lake,High,No
+839,Watsonville,Medium,No
+840,Broken Arrow,Medium,No
+841,Fort Smith,Medium,No
+842,Kalamazoo,Medium,No
+843,Salt Lake City,Medium,No
+844,Fort Wayne,Medium,No
+845,Bryan,High,No
+846,Pittsburgh,Low,No
+847,Pocatello,High,No
+848,Sarasota,Low,No
+849,Yonkers,Medium,No
+850,Hilo,High,No
+851,Pasco,High,No
+852,Pleasanton,Medium,No
+853,Overland Park,Medium,No
+854,Rockford,Low,No
+855,West Orange,Medium,Yes
+856,Nashua,Low,No
+857,Wilson,Medium,No
+858,Nashua,High,No
+859,West Sacramento,Medium,No
+860,Toledo,Medium,No
+861,Pleasanton,High,No
+862,Racine,Medium,No
+863,Pearland,Medium,No
+864,Vacaville,Medium,Yes
+865,Battle Creek,Medium,No
+866,Garden Grove,Medium,Yes
+867,Bridgewater,Low,Yes
+868,Pocatello,Low,No
+869,Findlay,Medium,No
+870,Kalamazoo,Medium,Yes
+871,Hoboken,Low,Yes
+872,Bolingbrook,High,No
+873,Turlock,High,No
+874,Apple Valley,Medium,Yes
+875,West Orange,Low,Yes
+876,Bloomfield,High,Yes
+877,Hilo,Medium,No
+878,Hamilton,Medium,No
+879,Blacksburg,Medium,No
+880,Garden Grove,Medium,No
+881,Pearland,Low,Yes
+882,Chico,High,No
+883,Rockford,Low,Yes
+884,Rockford,Medium,No
+885,Athens-Clarke,High,No
+886,Mesa,High,No
+887,Dothan,Medium,No
+888,Montgomery Village,Low,No
+889,Westminster,Medium,No
+890,Athens-Clarke,High,No
+891,Charleston,High,No
+892,Fort Wayne,High,No
+893,Pittsburgh,Medium,No
+894,NA,Medium,No
+895,Grand Island,Low,Yes
+896,Pleasanton,High,No
+897,Racine,High,No
+898,Glendora,Medium,No
+899,Hattiesburg,Medium,No
+900,NA,High,No
+901,Salt Lake City,Medium,Yes
+902,Franconia,Medium,No
+903,San Buenaventura,High,No
+904,Saint Louis Park,High,No
+905,Glendora,High,No
+906,Peoria,Low,No
+907,Gilbert,Low,Yes
+908,Edinburg,NA,No
+909,Fort Myers,Low,Yes
+910,West Orange,Medium,No
+911,Fond du Lac,Low,Yes
+912,Yorba Linda,High,No
+913,Woodland,Medium,No
+914,Hartford,Medium,No
+915,Yorba Linda,High,No
+916,NA,High,No
+917,Hoboken,Low,No
+918,Kalamazoo,Medium,No
+919,Fort Smith,Low,No
+920,Florence-Graham,Medium,Yes
+921,Cherry Hill,High,No
+922,San Buenaventura,Low,No
+923,Passaic,NA,No
+924,Nashua,High,No
+925,DeKalb,High,No
+926,Sioux City,Low,No
+927,Fort Myers,Low,Yes
+928,Carson,High,No
+929,Sarasota,Low,Yes
+930,Saint Louis Park,High,No
+931,Wheaton-Glenmont,Medium,No
+932,Saint Louis Park,NA,No
+933,Mesa,Medium,No
+934,Elizabeth,Medium,No
+935,North Bethesda,Low,No
+936,NA,Low,No
+937,Mansfield,Medium,No
+938,Kalamazoo,Low,Yes
+939,Peoria,Medium,No
+940,Waterbury,Low,No
+941,Bellflower,High,No
+942,Saint Louis Park,Low,No
+943,Yorba Linda,High,No
+944,Montgomery Village,Medium,No
+945,Charleston,Medium,No
+946,San Clemente,Medium,Yes
+947,Battle Creek,High,No
+948,Pleasanton,Low,No
+949,Ellicott City,Medium,No
+950,Waterbury,High,No
+951,Joliet,Low,No
+952,Rockford,Medium,No
+953,Wilson,Medium,No
+954,Hilo,High,No
+955,Fort Wayne,High,No
+956,Shelby,Medium,No
+957,Watsonville,High,No
+958,Glendora,High,No
+959,Salt Lake City,NA,No
+960,Franconia,Medium,No
+961,Nashua,Medium,No
+962,Watsonville,Low,No
+963,Haverhill,High,No
+964,NA,High,No
+965,Fond du Lac,High,No
+966,Ellicott City,Low,No
+967,Pleasanton,Low,No
+968,Shelby,Medium,No
+969,Pleasanton,Medium,No
+970,Kalamazoo,High,No
+971,Athens-Clarke,Low,Yes
+972,Eau Claire,Low,No
+973,Hilo,Medium,No
+974,Saint Louis Park,High,No
+975,Salt Lake City,High,No
+976,Wilson,Medium,No
+977,Wheaton-Glenmont,High,No
+978,Ellicott City,Low,No
+979,Fort Worth,NA,Yes
+980,Rockford,High,No
+981,Topeka,Medium,No
+982,Chandler,Medium,Yes
+983,Peoria,High,No
+984,Newport News,Medium,No
+985,Jupiter,Low,Yes
+986,Hilo,Medium,No
+987,Turlock,Low,Yes
+988,Minnetonka,NA,No
+989,Alameda,Low,No
+990,Bolingbrook,High,No
+991,Hilo,High,No
+992,Cherry Hill,High,Yes
+993,Crystal Lake,High,No
+994,Watsonville,Medium,No
+995,Salt Lake City,Low,Yes
+996,Turlock,High,No
+997,Concord,Low,No
+998,NA,Medium,No
+999,Saint Louis Park,Low,No
+1000,Florence-Graham,Low,No
+1001,Fort Smith,Low,No
+1002,Minneapolis,Low,No
+1003,Pharr,High,No
+1004,Detroit,Medium,No
+1005,Cary,NA,Yes
+1006,Wheaton-Glenmont,High,No
+1007,Westminster,Medium,No
+1008,Nashua,High,No
+1009,Somerville,Low,Yes
+1010,Hartford,Low,No
+1011,Pasco,Low,No
+1012,Nashua,Low,No
+1013,Elizabeth,High,No
+1014,DeKalb,Medium,No
+1015,Watsonville,Low,No
+1016,Yonkers,High,No
+1017,Rockford,Medium,No
+1018,Mansfield,Low,No
+1019,Fort Smith,High,No
+1020,West Orange,Low,No
+1021,Sioux City,High,No
+1022,Bolingbrook,Medium,No
+1023,Bloomfield,High,No
+1024,Bridgewater,High,No
+1025,Passaic,High,No
+1026,Sioux City,Low,No
+1027,Wilson,Low,No
+1028,NA,Low,No
+1029,Shelby,NA,No
+1030,Glendora,Medium,No
+1031,Concord,Low,No
+1032,Boynton Beach,Low,No
+1033,Westminster,Low,No
+1034,Alameda,Low,No
+1035,DeKalb,Low,Yes
+1036,Nashua,High,No
+1037,Turlock,Low,No
+1038,Kendall,Low,No
+1039,Passaic,Low,No
+1040,Sioux City,NA,No
+1041,Wilkes-Barre,Medium,Yes
+1042,Wilson,High,No
+1043,Salt Lake City,Low,No
+1044,Gilbert,High,Yes
+1045,Florence-Graham,Low,No
+1046,Joliet,Medium,No
+1047,Garden Grove,Medium,No
+1048,Joliet,High,No
+1049,Indio,High,No
+1050,Mansfield,High,No
+1051,Fort Wayne,High,No
+1052,Montgomery Village,Low,No
+1053,Chandler,Medium,No
+1054,Topeka,High,No
+1055,Bolingbrook,High,No
+1056,Fort Wayne,High,Yes
+1057,Apple Valley,Low,No
+1058,Joliet,Low,No
+1059,Westland,Medium,No
+1060,Rockford,Low,No
+1061,West Orange,High,No
+1062,Shelby,NA,Yes
+1063,Glendora,Low,No
+1064,NA,High,No
+1065,Eau Claire,Low,No
+1066,Ellicott City,Low,Yes
+1067,Fort Myers,Low,Yes
+1068,Kalamazoo,Low,Yes
+1069,Fond du Lac,Medium,No
+1070,Ellicott City,Low,No
+1071,Bolingbrook,Medium,No
+1072,Mesa,Low,No
+1073,Detroit,Medium,No
+1074,Bloomfield,NA,Yes
+1075,Fort Wayne,High,No
+1076,Findlay,Medium,No
+1077,Edinburg,Medium,No
+1078,Sioux City,High,No
+1079,Chandler,High,No
+1080,Westminster,Medium,No
+1081,Saint Louis Park,High,No
+1082,Fort Wayne,Low,Yes
+1083,Somerville,Low,No
+1084,Pearland,Medium,No
+1085,Kalamazoo,Low,No
+1086,Westminster,Medium,No
+1087,West Orange,Medium,No
+1088,DeKalb,Low,No
+1089,Hartford,Low,No
+1090,Montgomery Village,High,No
+1091,Pocatello,High,No
+1092,NA,Low,No
+1093,Minnetonka,Medium,No
+1094,Somerville,Low,Yes
+1095,Alameda,High,No
+1096,DeKalb,High,No
+1097,Bolingbrook,Low,No
+1098,Haverhill,High,No
+1099,Pittsburgh,Low,No
+1100,Nashua,High,No
+1101,Cherry Hill,High,No
+1102,Joliet,NA,No
+1103,Wilkes-Barre,High,No
+1104,Nashua,High,No
+1105,Fort Wayne,Medium,No
+1106,Apple Valley,High,No
+1107,Hattiesburg,Medium,No
+1108,NA,High,No
+1109,Bloomfield,Low,No
+1110,Fort Worth,Medium,No
+1111,Overland Park,Low,No
+1112,Grand Island,High,No
+1113,NA,Medium,No
+1114,Turlock,Medium,No
+1115,Fort Myers,Medium,No
+1116,Minneapolis,NA,No
+1117,Watsonville,Medium,Yes
+1118,Detroit,Medium,No
+1119,Yorba Linda,High,No
+1120,Broken Arrow,High,No
+1121,Pocatello,Medium,No
+1122,Franconia,Low,Yes
+1123,Yonkers,Low,No
+1124,Yonkers,NA,Yes
+1125,Vacaville,Medium,No
+1126,Chico,Medium,No
+1127,NA,NA,Yes
+1128,Alameda,Low,Yes
+1129,Hartford,Medium,Yes
+1130,NA,Medium,No
+1131,Peoria,Medium,No
+1132,Franconia,Low,No
+1133,Fond du Lac,Medium,Yes
+1134,Pasco,High,No
+1135,Wilson,High,No
+1136,Westland,High,No
+1137,Hattiesburg,NA,Yes
+1138,West Orange,High,No
+1139,Kalamazoo,Medium,No
+1140,Peoria,Medium,No
+1141,North Bethesda,NA,Yes
+1142,Carson,High,No
+1143,Fond du Lac,High,No
+1144,Joliet,Low,No
+1145,Watsonville,High,No
+1146,Hattiesburg,Low,No
+1147,Florence-Graham,Medium,No
+1148,Topeka,Medium,No
+1149,Newport News,Medium,No
+1150,Wheaton-Glenmont,High,No
+1151,Bolingbrook,High,No
+1152,Watsonville,Medium,No
+1153,Kalamazoo,Medium,No
+1154,Wilson,NA,Yes
+1155,Austin,Low,No
+1156,DeKalb,Medium,No
+1157,Garden Grove,Medium,No
+1158,Fort Smith,Medium,No
+1159,Haverhill,High,No
+1160,Overland Park,Low,Yes
+1161,Indio,High,No
+1162,Pearland,Low,Yes
+1163,Hamilton,Low,Yes
+1164,Waterbury,High,No
+1165,Battle Creek,High,No
+1166,San Buenaventura,Medium,No
+1167,Gilbert,Low,No
+1168,Overland Park,Medium,No
+1169,Hilo,Medium,Yes
+1170,Somerville,Low,No
+1171,Nashua,High,No
+1172,Broken Arrow,Medium,No
+1173,Ellicott City,Low,No
+1174,Beaverton,High,Yes
+1175,NA,Low,No
+1176,Hilo,High,No
+1177,NA,Low,No
+1178,Vacaville,High,No
+1179,Joliet,High,No
+1180,Westland,Medium,No
+1181,Somerville,High,No
+1182,Nashua,Low,Yes
+1183,North Bethesda,High,No
+1184,Detroit,High,No
+1185,Watsonville,High,No
+1186,Topeka,High,No
+1187,Kendall,Low,No
+1188,Concord,High,No
+1189,Indio,High,No
+1190,Pittsburgh,Low,No
+1191,Westminster,High,No
+1192,Carson,Low,No
+1193,Sioux City,Low,No
+1194,Toledo,Medium,No
+1195,Battle Creek,Medium,No
+1196,Sarasota,Low,No
+1197,Battle Creek,Medium,No
+1198,Franconia,Low,No
+1199,Nashua,High,No
+1200,Woodland,Medium,No
+1201,San Clemente,High,No
+1202,Mesa,Medium,No
+1203,Waterbury,High,No
+1204,Broken Arrow,Low,No
+1205,Concord,Medium,No
+1206,North Bethesda,High,No
+1207,Nashua,High,No
+1208,Lynwood,Low,No
+1209,Bellflower,Medium,No
+1210,Mesa,Medium,No
+1211,Edinburg,Low,No
+1212,Fort Myers,Medium,No
+1213,Findlay,Medium,Yes
+1214,North Bethesda,NA,Yes
+1215,Apple Valley,Medium,No
+1216,Bolingbrook,High,No
+1217,Saint Louis Park,Medium,No
+1218,Dothan,Low,Yes
+1219,Watsonville,High,No
+1220,Austin,Medium,No
+1221,Fort Myers,Medium,No
+1222,Pearland,High,No
+1223,Jupiter,Medium,No
+1224,Yonkers,High,No
+1225,Westland,Low,Yes
+1226,Dothan,Medium,No
+1227,Wilkes-Barre,Medium,No
+1228,Yonkers,High,No
+1229,Montgomery Village,High,No
+1230,Hoboken,High,No
+1231,Cary,NA,Yes
+1232,Sarasota,Low,No
+1233,Nashua,High,No
+1234,Joliet,Low,No
+1235,Saint Louis Park,High,No
+1236,Fort Smith,NA,No
+1237,Austin,High,No
+1238,Grand Island,Medium,No
+1239,Charleston,High,No
+1240,Ames,Medium,No
+1241,Citrus Heights,Low,Yes
+1242,Minnetonka,High,No
+1243,NA,Low,Yes
+1244,Joliet,Medium,No
+1245,Wilson,Low,No
+1246,Toledo,Medium,No
+1247,NA,Low,Yes
+1248,Topeka,High,No
+1249,Kendall,Medium,No
+1250,Pharr,Medium,No
+1251,Passaic,Medium,No
+1252,Topeka,High,No
+1253,Hamilton,Low,Yes
+1254,Chandler,High,No
+1255,Watsonville,High,No
+1256,Broken Arrow,Low,No
+1257,Sioux City,High,No
+1258,Findlay,Low,No
+1259,West Sacramento,Medium,No
+1260,NA,High,No
+1261,Pasco,High,No
+1262,Detroit,High,No
+1263,Vacaville,Low,No
+1264,Salt Lake City,Low,No
+1265,Minneapolis,Medium,No
+1266,North Bethesda,High,No
+1267,Florence-Graham,Low,No
+1268,Chandler,Low,No
+1269,Bolingbrook,Low,No
+1270,Fort Worth,Low,Yes
+1271,West Sacramento,Low,No
+1272,Newport News,Medium,No
+1273,Rockford,Medium,No
+1274,Newport News,Medium,No
+1275,Newport News,Low,No
+1276,Citrus Heights,Low,No
+1277,Bridgewater,Medium,No
+1278,DeKalb,High,No
+1279,Kendall,High,No
+1280,Wilkes-Barre,Medium,No
+1281,Jupiter,Low,Yes
+1282,Somerville,NA,No
+1283,San Clemente,Low,No
+1284,Fort Wayne,High,No
+1285,Somerville,Low,No
+1286,Nashua,Medium,No
+1287,Pocatello,High,No
+1288,NA,Low,Yes
+1289,Bolingbrook,Low,No
+1290,Racine,High,No
+1291,Sioux City,High,No
+1292,Passaic,High,No
+1293,Hilo,Low,No
+1294,Peoria,Low,No
+1295,Yonkers,Medium,No
+1296,Battle Creek,High,No
+1297,Shelby,Medium,Yes
+1298,Fond du Lac,Low,Yes
+1299,Pleasanton,Low,No
+1300,Minneapolis,Low,No
+1301,Detroit,High,No
+1302,Apple Valley,High,No
+1303,Eau Claire,Low,No
+1304,Salt Lake City,High,No
+1305,Citrus Heights,Low,Yes
+1306,Concord,Medium,Yes
+1307,Bolingbrook,Medium,No
+1308,Fort Myers,NA,Yes
+1309,Pasco,NA,No
+1310,Cherry Hill,NA,No
+1311,Joliet,Low,No
+1312,Yonkers,Low,No
+1313,Passaic,Low,No
+1314,West Sacramento,Medium,No
+1315,NA,Low,No
+1316,Garden Grove,Low,No
+1317,Fort Wayne,Low,No
+1318,Hoboken,High,No
+1319,Mansfield,Low,No
+1320,West Orange,Medium,No
+1321,Chico,Medium,No
+1322,Grand Island,Medium,No
+1323,Vacaville,Medium,No
+1324,San Clemente,High,Yes
+1325,Minneapolis,Low,No
+1326,Mesa,High,No
+1327,Kalamazoo,Medium,No
+1328,Sioux City,Medium,No
+1329,Wheaton-Glenmont,High,No
+1330,West Sacramento,High,No
+1331,Blacksburg,High,Yes
+1332,Dothan,Medium,No
+1333,Charleston,High,No
+1334,Hoboken,Low,No
+1335,Topeka,Low,Yes
+1336,Vacaville,Medium,No
+1337,Austin,High,No
+1338,NA,Medium,No
+1339,Fort Worth,High,No
+1340,Gilbert,Medium,No
+1341,Topeka,High,No
+1342,Crystal Lake,Low,No
+1343,Newport News,High,No
+1344,Shelby,Low,No
+1345,Detroit,Low,Yes
+1346,Ames,Medium,No
+1347,NA,Medium,No
+1348,Hartford,High,No
+1349,Newport News,Medium,Yes
+1350,Rockford,High,No
+1351,Nashua,High,No
+1352,Garden Grove,NA,No
+1353,Yorba Linda,Low,No
+1354,Peoria,Low,No
+1355,Blacksburg,Low,Yes
+1356,Pasco,Low,No
+1357,NA,Medium,No
+1358,Pleasanton,High,No
+1359,Nashua,High,No
+1360,Glendora,Medium,No
+1361,Bloomfield,High,No
+1362,Chico,Low,Yes
+1363,Concord,Medium,No
+1364,West Sacramento,Medium,No
+1365,Rockford,Medium,No
+1366,Bridgewater,Low,No
+1367,NA,Low,No
+1368,Kalamazoo,Low,No
+1369,Haverhill,Medium,No
+1370,Bryan,High,No
+1371,NA,Low,No
+1372,Battle Creek,Low,Yes
+1373,Sarasota,NA,Yes
+1374,Westland,High,No
+1375,Mansfield,High,No
+1376,Haverhill,High,No
+1377,Grand Island,NA,Yes
+1378,Ames,Low,No
+1379,Blacksburg,Medium,No
+1380,North Bethesda,Medium,No
+1381,Franconia,High,No
+1382,NA,High,No
+1383,Cherry Hill,Low,Yes
+1384,Pleasanton,Low,No
+1385,Wheaton-Glenmont,Medium,No
+1386,Montgomery Village,High,No
+1387,NA,High,No
+1388,Waterbury,Medium,No
+1389,Yonkers,Medium,No
+1390,NA,Medium,No
+1391,NA,High,No
+1392,Waterbury,Medium,No
+1393,Vacaville,Low,No
+1394,Sarasota,Low,No
+1395,Pocatello,High,No
+1396,Cherry Hill,Medium,No
+1397,Detroit,Low,No
+1398,Topeka,Medium,No
+1399,Detroit,Low,No
+1400,Chico,Medium,No
+1401,Concord,Medium,No
+1402,Waterbury,Medium,No
+1403,Fort Myers,Low,No
+1404,Franconia,Medium,No
+1405,Bridgewater,High,No
+1406,Austin,Medium,No
+1407,Concord,High,No
+1408,Westminster,Medium,No
+1409,Athens-Clarke,Low,No
+1410,Yonkers,High,No
+1411,Hoboken,Low,No
+1412,Pocatello,High,No
+1413,Chico,Medium,No
+1414,Hattiesburg,High,No
+1415,Grand Island,Low,No
+1416,Alameda,High,No
+1417,Mesa,High,No
+1418,NA,High,No
+1419,West Orange,Low,No
+1420,West Orange,Medium,No
+1421,Fort Wayne,Low,Yes
+1422,Lynwood,NA,Yes
+1423,Newport News,Medium,No
+1424,Lynwood,Medium,No
+1425,Westminster,Medium,No
+1426,San Buenaventura,High,No
+1427,Florence-Graham,Low,No
+1428,Turlock,Medium,No
+1429,Cherry Hill,Low,No
+1430,Cherry Hill,Medium,No
+1431,Jupiter,Low,No
+1432,Eau Claire,High,No
+1433,Wilson,Low,No
+1434,Indio,Low,Yes
+1435,Minneapolis,Medium,Yes
+1436,Fort Wayne,Medium,No
+1437,Racine,Medium,No
+1438,Chandler,Low,Yes
+1439,San Buenaventura,Medium,Yes
+1440,Hartford,Medium,No
+1441,Turlock,Low,No
+1442,Battle Creek,NA,Yes
+1443,Carson,Low,No
+1444,Fort Worth,Low,No
+1445,Fort Worth,Low,No
+1446,Citrus Heights,Medium,No
+1447,Hoboken,Low,No
+1448,Pharr,High,No
+1449,Walnut Creek,High,No
+1450,Edinburg,Medium,No
+1451,Somerville,High,No
+1452,Glendora,Medium,No
+1453,Jupiter,High,No
+1454,Montgomery Village,High,No
+1455,Athens-Clarke,High,No
+1456,Hoboken,Medium,No
+1457,Cary,Low,No
+1458,Bolingbrook,Low,No
+1459,Sioux City,High,No
+1460,Mesa,High,No
+1461,San Clemente,Low,No
+1462,Nashua,High,No
+1463,Detroit,Low,No
+1464,West Orange,Medium,No
+1465,Joliet,Low,Yes
+1466,Salt Lake City,High,No
+1467,Gilbert,High,No
+1468,Minnetonka,High,No
+1469,Battle Creek,High,No
+1470,Somerville,Low,No
+1471,Joliet,Low,No
+1472,Glendora,High,No
+1473,NA,High,No
+1474,Fort Myers,Medium,No
+1475,Kalamazoo,Medium,No
+1476,Hilo,Medium,Yes
+1477,Pharr,Medium,No
+1478,Ames,High,No
+1479,Racine,Medium,No
+1480,Elizabeth,High,No
+1481,Peoria,High,No
+1482,Ellicott City,Medium,No
+1483,Mesa,Low,Yes
+1484,Wilson,Medium,No
+1485,Joliet,Medium,No
+1486,Kalamazoo,Medium,No
+1487,Newport News,Medium,No
+1488,Fort Smith,Low,No
+1489,Pearland,Medium,No
+1490,Wilkes-Barre,Low,Yes
+1491,Pittsburgh,Low,Yes
+1492,Eau Claire,High,No
+1493,Newport News,High,No
+1494,Westminster,Low,Yes
+1495,Topeka,High,No
+1496,Sarasota,Low,No
+1497,NA,Low,Yes
+1498,Minneapolis,High,No
+1499,Concord,Low,Yes
+1500,Westland,High,No
+1501,Newport News,Low,No
+1502,Charleston,Low,No
+1503,Hartford,NA,Yes
+1504,Yorba Linda,High,No
+1505,Rockford,High,No
+1506,Newport News,Low,No
+1507,Broken Arrow,Medium,No
+1508,Westland,Medium,No
+1509,Shelby,Medium,No
+1510,Hattiesburg,Low,No
+1511,Westminster,Medium,No
+1512,Racine,Medium,No
+1513,Wheaton-Glenmont,Medium,No
+1514,Fort Smith,NA,Yes
+1515,Bloomfield,High,No
+1516,Topeka,High,No
+1517,Boynton Beach,Low,No
+1518,Indio,High,No
+1519,Newport News,High,No
+1520,Haverhill,Medium,No
+1521,Garden Grove,Low,No
+1522,Chico,High,No
+1523,North Bethesda,Medium,No
+1524,Alameda,High,No
+1525,Fond du Lac,Low,No
+1526,Pasco,High,No
+1527,Edinburg,Medium,No
+1528,NA,Low,No
+1529,Apple Valley,High,No
+1530,Crystal Lake,NA,Yes
+1531,Detroit,High,No
+1532,Charleston,High,No
+1533,Watsonville,Low,Yes
+1534,Sarasota,High,No
+1535,Shelby,High,No
+1536,Florence-Graham,Low,Yes
+1537,Pasco,Medium,No
+1538,Peoria,Medium,No
+1539,Topeka,Medium,No
+1540,Apple Valley,Medium,Yes
+1541,Westminster,Low,No
+1542,Dothan,Low,No
+1543,Haverhill,Low,No
+1544,Lynwood,High,No
+1545,Ellicott City,Medium,No
+1546,Wilkes-Barre,High,No
+1547,Rockford,Medium,No
+1548,Kalamazoo,Low,Yes
+1549,Hilo,High,Yes
+1550,Watsonville,Low,No
+1551,DeKalb,Low,Yes
+1552,DeKalb,Low,Yes
+1553,Yonkers,Low,Yes
+1554,Broken Arrow,High,No
+1555,Crystal Lake,Medium,No
+1556,DeKalb,Medium,No
+1557,Topeka,Medium,No
+1558,Blacksburg,Medium,No
+1559,Vacaville,High,No
+1560,Bloomfield,High,No
+1561,Concord,Low,No
+1562,Vacaville,Low,No
+1563,Haverhill,Low,Yes
+1564,Bridgewater,Low,No
+1565,Franconia,Low,Yes
+1566,Athens-Clarke,High,No
+1567,Mesa,Medium,No
+1568,Toledo,High,No
+1569,Yorba Linda,High,No
+1570,Athens-Clarke,Medium,Yes
+1571,Alameda,Medium,No
+1572,Bloomfield,Medium,No
+1573,Detroit,Low,No
+1574,NA,Medium,No
+1575,Gilbert,High,No
+1576,Jupiter,Medium,No
+1577,NA,Low,Yes
+1578,Wilkes-Barre,Low,Yes
+1579,Hamilton,Medium,Yes
+1580,Walnut Creek,Medium,No
+1581,Pittsburgh,Medium,No
+1582,Topeka,Medium,No
+1583,Fort Smith,Medium,No
+1584,Vacaville,High,No
+1585,Westminster,Medium,No
+1586,Pasco,Low,Yes
+1587,Sarasota,High,No
+1588,Shelby,Low,Yes
+1589,Bridgewater,Medium,No
+1590,Carson,High,No
+1591,Florence-Graham,Low,Yes
+1592,San Buenaventura,Low,No
+1593,DeKalb,High,No
+1594,Eau Claire,Low,No
+1595,Ames,Low,Yes
+1596,Indio,High,No
+1597,Overland Park,High,No
+1598,Ames,Medium,No
+1599,Beaverton,High,No
+1600,NA,Low,Yes
+1601,Wilson,Medium,No
+1602,Fort Smith,Medium,Yes
+1603,Bryan,High,No
+1604,Haverhill,Low,No
+1605,Dothan,High,No
+1606,Bellflower,Medium,No
+1607,Waterbury,High,No
+1608,Florence-Graham,High,No
+1609,Elizabeth,High,No
+1610,Pocatello,High,No
+1611,Carson,Medium,No
+1612,Carson,Low,No
+1613,Indio,High,No
+1614,Crystal Lake,Low,No
+1615,Haverhill,High,No
+1616,Woodland,Medium,No
+1617,Garden Grove,Medium,No
+1618,Walnut Creek,High,No
+1619,DeKalb,Low,No
+1620,Carson,High,No
+1621,Austin,High,No
+1622,Vacaville,Medium,No
+1623,Hilo,Medium,No
+1624,Citrus Heights,Medium,No
+1625,Ames,Low,No
+1626,Pittsburgh,Low,Yes
+1627,Hamilton,High,No
+1628,Hoboken,High,No
+1629,Citrus Heights,Low,Yes
+1630,Passaic,High,No
+1631,Fort Myers,Low,No
+1632,Topeka,Medium,No
+1633,Hamilton,Low,Yes
+1634,Fond du Lac,Medium,No
+1635,San Clemente,Medium,No
+1636,Pittsburgh,High,No
+1637,Haverhill,Medium,Yes
+1638,Edinburg,High,No
+1639,Blacksburg,Low,No
+1640,Ellicott City,High,No
+1641,Ellicott City,Low,No
+1642,Hartford,Low,No
+1643,Bryan,Low,No
+1644,Pleasanton,Low,Yes
+1645,Fort Myers,High,No
+1646,Kalamazoo,Low,No
+1647,Haverhill,High,No
+1648,Joliet,Low,No
+1649,Hamilton,Low,Yes
+1650,Turlock,High,No
+1651,San Buenaventura,Low,No
+1652,Concord,Medium,No
+1653,Fort Myers,High,No
+1654,Racine,High,No
+1655,Woodland,NA,No
+1656,Cary,Medium,Yes
+1657,Somerville,Low,No
+1658,Somerville,Low,No
+1659,Pharr,Medium,No
+1660,Overland Park,Medium,No
+1661,Shelby,NA,Yes
+1662,Hoboken,Medium,No
+1663,Kalamazoo,Medium,No
+1664,Battle Creek,Medium,No
+1665,Garden Grove,Low,No
+1666,Westland,High,No
+1667,Cherry Hill,Medium,No
+1668,Pasco,Low,No
+1669,Lynwood,High,No
+1670,Rockford,Medium,Yes
+1671,Topeka,High,No
+1672,Watsonville,High,No
+1673,North Bethesda,High,No
+1674,Hattiesburg,Medium,No
+1675,Passaic,Low,Yes
+1676,Dothan,High,No
+1677,Eau Claire,Medium,No
+1678,Battle Creek,Low,Yes
+1679,Topeka,Medium,No
+1680,Broken Arrow,Medium,No
+1681,Florence-Graham,Medium,No
+1682,Bolingbrook,High,No
+1683,Ames,Medium,No
+1684,Citrus Heights,Low,Yes
+1685,Wilson,Medium,No
+1686,Austin,High,No
+1687,Athens-Clarke,High,No
+1688,Haverhill,Medium,No
+1689,Somerville,Medium,No
+1690,Rockford,Medium,No
+1691,Gilbert,High,No
+1692,Chico,Medium,No
+1693,Athens-Clarke,Low,No
+1694,Racine,High,No
+1695,Austin,High,No
+1696,Cherry Hill,Medium,No
+1697,Fort Wayne,Medium,No
+1698,Kalamazoo,High,No
+1699,Topeka,NA,Yes
+1700,Racine,High,No
+1701,Chandler,Low,No
+1702,San Buenaventura,High,No
+1703,Cary,Low,No
+1704,Minnetonka,Medium,No
+1705,Woodland,Medium,No
+1706,Hartford,High,No
+1707,Pocatello,High,No
+1708,Yorba Linda,Medium,No
+1709,Chico,Low,No
+1710,Montgomery Village,Medium,No
+1711,Fort Worth,Low,Yes
+1712,Athens-Clarke,Low,Yes
+1713,Kendall,Low,Yes
+1714,Peoria,High,No
+1715,Hemet,Medium,No
+1716,Broken Arrow,Low,Yes
+1717,Bridgewater,Low,Yes
+1718,Westland,Low,Yes
+1719,Turlock,High,No
+1720,Jupiter,High,No
+1721,Bloomfield,High,No
+1722,Alameda,Medium,No
+1723,Broken Arrow,Medium,No
+1724,Chico,High,No
+1725,San Clemente,High,No
+1726,Racine,Low,No
+1727,Carson,Medium,No
+1728,Cherry Hill,Medium,No
+1729,Fort Myers,Medium,No
+1730,Lynwood,Low,No
+1731,Woodland,NA,Yes
+1732,Hoboken,Medium,No
+1733,Nashua,Low,No
+1734,Hamilton,Medium,No
+1735,Boynton Beach,Medium,No
+1736,Hamilton,Low,Yes
+1737,Yonkers,High,No
+1738,Bryan,NA,No
+1739,Ames,Low,No
+1740,Joliet,NA,Yes
+1741,NA,Low,No
+1742,Wilson,Low,Yes
+1743,NA,Low,Yes
+1744,DeKalb,High,No
+1745,Saint Louis Park,Medium,No
+1746,West Sacramento,Low,No
+1747,Yorba Linda,High,No
+1748,NA,Medium,No
+1749,Topeka,Medium,No
+1750,Watsonville,Medium,No
+1751,Hartford,Low,Yes
+1752,Minneapolis,Low,Yes
+1753,Nashua,High,No
+1754,West Orange,Medium,No
+1755,Somerville,Medium,No
+1756,Fond du Lac,Medium,No
+1757,Chandler,High,No
+1758,Fort Wayne,Low,No
+1759,NA,Medium,No
+1760,Pleasanton,High,No
+1761,Elizabeth,Low,No
+1762,Dothan,Low,Yes
+1763,Hartford,Low,Yes
+1764,Walnut Creek,Medium,No
+1765,Eau Claire,Medium,No
+1766,Boynton Beach,High,No
+1767,Racine,High,No
+1768,Chandler,Medium,No
+1769,Watsonville,High,No
+1770,Alameda,Low,No
+1771,Yonkers,High,No
+1772,Detroit,Medium,Yes
+1773,Bridgewater,Medium,No
+1774,NA,Low,No
+1775,NA,High,No
+1776,Gilbert,Medium,No
+1777,Hemet,High,No
+1778,Saint Louis Park,High,No
+1779,NA,Medium,No
+1780,Saint Louis Park,High,No
+1781,NA,High,No
+1782,Fond du Lac,Medium,No
+1783,Hoboken,High,No
+1784,NA,Low,Yes
+1785,Passaic,Medium,No
+1786,Gilbert,High,No
+1787,Kalamazoo,Medium,No
+1788,Watsonville,Low,No
+1789,Yonkers,High,No
+1790,Vacaville,Medium,No
+1791,Dothan,Low,No
+1792,Hattiesburg,Low,No
+1793,Sarasota,Medium,No
+1794,Passaic,High,No
+1795,Bellflower,Low,Yes
+1796,Rockford,High,No
+1797,Fort Worth,Low,No
+1798,Fort Worth,Medium,No
+1799,Hartford,Low,No
+1800,Newport News,High,Yes
+1801,Joliet,Medium,No
+1802,Pittsburgh,High,No
+1803,Bryan,Medium,No
+1804,NA,High,No
+1805,Beaverton,High,No
+1806,NA,Medium,No
+1807,NA,High,No
+1808,Wilkes-Barre,High,No
+1809,NA,Medium,No
+1810,Waterbury,Low,No
+1811,Waterbury,High,No
+1812,Yorba Linda,Low,No
+1813,Mesa,High,No
+1814,San Buenaventura,High,No
+1815,Edinburg,Medium,No
+1816,Nashua,Medium,No
+1817,Westland,High,No
+1818,Dothan,Low,No
+1819,NA,High,No
+1820,Pharr,High,No
+1821,Glendora,Medium,No
+1822,Bellflower,Low,No
+1823,Wilson,High,No
+1824,NA,High,No
+1825,Florence-Graham,Medium,No
+1826,Kendall,Medium,No
+1827,North Bethesda,Medium,No
+1828,Topeka,High,No
+1829,Montgomery Village,High,No
+1830,Bellflower,Medium,No
+1831,NA,Medium,No
+1832,Pleasanton,High,No
+1833,Broken Arrow,Low,Yes
+1834,Pleasanton,Medium,No
+1835,Overland Park,Medium,Yes
+1836,Montgomery Village,High,No
+1837,Crystal Lake,Medium,No
+1838,Jupiter,High,No
+1839,Boynton Beach,High,No
+1840,Saint Louis Park,Low,No
+1841,Westland,Medium,No
+1842,Dothan,High,No
+1843,Bryan,High,No
+1844,Pharr,Low,No
+1845,Garden Grove,Low,No
+1846,Battle Creek,Low,No
+1847,Citrus Heights,High,No
+1848,Westminster,Medium,No
+1849,Fort Smith,NA,Yes
+1850,Pearland,Low,Yes
+1851,San Clemente,NA,No
+1852,Kendall,Low,No
+1853,Hamilton,Medium,No
+1854,Charleston,Medium,No
+1855,Cary,Medium,No
+1856,Bolingbrook,Medium,No
+1857,NA,High,No
+1858,Pocatello,Low,No
+1859,Toledo,High,No
+1860,Joliet,Low,Yes
+1861,West Orange,High,No
+1862,DeKalb,NA,No
+1863,Broken Arrow,Low,No
+1864,Nashua,Low,No
+1865,NA,High,No
+1866,Rockford,Medium,No
+1867,Racine,High,No
+1868,West Orange,Medium,No
+1869,Somerville,Medium,No
+1870,Grand Island,High,No
+1871,NA,Medium,No
+1872,Waterbury,Low,No
+1873,Waterbury,Low,Yes
+1874,Westland,Medium,No
+1875,Racine,Low,No
+1876,Gilbert,Low,No
+1877,NA,High,No
+1878,Yorba Linda,High,No
+1879,Passaic,Low,No
+1880,Hoboken,Medium,No
+1881,Turlock,Low,No
+1882,Carson,High,No
+1883,North Bethesda,High,No
+1884,Salt Lake City,High,No
+1885,Beaverton,Medium,No
+1886,NA,Low,No
+1887,Haverhill,High,No
+1888,Bridgewater,Low,No
+1889,North Bethesda,High,No
+1890,Yonkers,Medium,No
+1891,Topeka,Low,No
+1892,West Orange,Medium,Yes
+1893,Boynton Beach,High,No
+1894,Findlay,High,No
+1895,Minneapolis,NA,No
+1896,Gilbert,Low,No
+1897,Fort Wayne,High,No
+1898,Overland Park,Medium,No
+1899,Hemet,Medium,No
+1900,Edinburg,Low,No
+1901,Sarasota,High,No
+1902,Bolingbrook,High,Yes
+1903,Crystal Lake,High,No
+1904,Boynton Beach,High,No
+1905,Montgomery Village,High,No
+1906,Pasco,Medium,Yes
+1907,Fond du Lac,Medium,No
+1908,Vacaville,Medium,No
+1909,Bolingbrook,High,No
+1910,Topeka,Low,No
+1911,Mansfield,Medium,No
+1912,Minneapolis,Medium,Yes
+1913,West Orange,High,No
+1914,Racine,Low,No
+1915,Gilbert,High,No
+1916,Wilson,Medium,No
+1917,Lynwood,Low,No
+1918,Toledo,Medium,No
+1919,Hattiesburg,Low,No
+1920,San Clemente,High,No
+1921,NA,Low,No
+1922,Athens-Clarke,Low,No
+1923,Bolingbrook,High,No
+1924,Pocatello,Low,Yes
+1925,Wilkes-Barre,High,No
+1926,Battle Creek,Low,No
+1927,Westminster,High,No
+1928,Concord,High,No
+1929,Bloomfield,NA,No
+1930,Ames,Low,No
+1931,Citrus Heights,Medium,No
+1932,Westland,High,No
+1933,Carson,Medium,No
+1934,Ellicott City,High,No
+1935,Garden Grove,High,No
+1936,Concord,Low,Yes
+1937,Alameda,High,No
+1938,Edinburg,High,No
+1939,Bridgewater,High,No
+1940,Wilkes-Barre,High,No
+1941,NA,Medium,No
+1942,Toledo,Low,No
+1943,Westminster,Medium,Yes
+1944,Athens-Clarke,Medium,No
+1945,Sioux City,High,No
+1946,Hoboken,Low,No
+1947,San Clemente,High,Yes
+1948,Hamilton,Low,No
+1949,Westminster,Medium,Yes
+1950,Gilbert,Medium,No
+1951,West Orange,High,Yes
+1952,Yorba Linda,High,No
+1953,Findlay,Medium,Yes
+1954,Joliet,Low,No
+1955,Citrus Heights,High,No
+1956,Sarasota,High,No
+1957,Carson,High,No
+1958,Pearland,High,No
+1959,Woodland,Medium,No
+1960,Racine,Low,No
+1961,Hoboken,High,No
+1962,Pasco,Low,No
+1963,West Orange,Low,No
+1964,Grand Island,High,No
+1965,DeKalb,High,No
+1966,Cary,Medium,No
+1967,Concord,Medium,No
+1968,Wilson,Low,No
+1969,Waterbury,NA,Yes
+1970,Carson,Low,Yes
+1971,Apple Valley,High,No
+1972,Austin,High,No
+1973,Boynton Beach,Low,No
+1974,Cary,Low,Yes
+1975,Yorba Linda,Low,No
+1976,Lynwood,High,No
+1977,Carson,High,Yes
+1978,NA,High,No
+1979,Woodland,High,No
+1980,Vacaville,NA,No
+1981,Wilson,Medium,No
+1982,Sioux City,Medium,No
+1983,Cherry Hill,Medium,No
+1984,Peoria,High,No
+1985,Citrus Heights,Medium,No
+1986,Austin,Low,Yes
+1987,Mesa,High,No
+1988,NA,High,No
+1989,Sarasota,Medium,No
+1990,Jupiter,Low,Yes
+1991,Crystal Lake,High,No
+1992,Somerville,High,No
+1993,Topeka,High,No
+1994,Detroit,NA,Yes
+1995,Wheaton-Glenmont,Low,Yes
+1996,Montgomery Village,NA,Yes
+1997,West Orange,Medium,No
+1998,Mesa,High,No
+1999,Cherry Hill,High,No
+2000,Lynwood,Medium,Yes
+2001,Pleasanton,High,No
+2002,Austin,Low,No
+2003,Gilbert,Medium,No
+2004,Pharr,Low,No
+2005,San Buenaventura,High,No
+2006,Pasco,Low,No
+2007,Austin,Medium,No
+2008,Jupiter,High,No
+2009,Sioux City,High,No
+2010,Kendall,Medium,No
+2011,Pharr,Low,No
+2012,Ames,Low,No
+2013,Cary,High,No
+2014,Waterbury,Medium,No
+2015,Franconia,Low,No
+2016,Bolingbrook,High,No
+2017,Lynwood,Low,Yes
+2018,Haverhill,Low,Yes
+2019,Detroit,Low,No
+2020,Garden Grove,High,No
+2021,Pittsburgh,High,No
+2022,Vacaville,Low,No
+2023,Detroit,Low,Yes
+2024,Rockford,Medium,No
+2025,San Buenaventura,High,No
+2026,Detroit,High,No
+2027,Yonkers,High,No
+2028,Rockford,Medium,No
+2029,Turlock,Low,Yes
+2030,Boynton Beach,High,No
+2031,Charleston,High,No
+2032,Wilkes-Barre,High,No
+2033,Wheaton-Glenmont,High,No
+2034,NA,Low,Yes
+2035,NA,Low,No
+2036,Bryan,Low,No
+2037,Bridgewater,Low,No
+2038,Ellicott City,High,No
+2039,Westland,Medium,No
+2040,Fort Wayne,Low,No
+2041,Minnetonka,Medium,No
+2042,Yorba Linda,Medium,No
+2043,Beaverton,Low,Yes
+2044,Walnut Creek,High,No
+2045,Beaverton,NA,No
+2046,Woodland,Medium,No
+2047,Pasco,High,No
+2048,Blacksburg,Medium,No
+2049,Jupiter,Low,No
+2050,Ellicott City,Low,Yes
+2051,Broken Arrow,High,No
+2052,Hamilton,Low,No
+2053,Ames,High,No
+2054,Somerville,High,No
+2055,Hamilton,High,No
+2056,Franconia,High,No
+2057,Vacaville,Medium,No
+2058,Findlay,High,No
+2059,Westland,High,No
+2060,Apple Valley,High,No
+2061,Bloomfield,NA,Yes
+2062,Chico,High,No
+2063,Fort Smith,Low,No
+2064,Sioux City,High,No
+2065,Rockford,Low,No
+2066,Pasco,Low,No
+2067,Pharr,High,No
+2068,Watsonville,Medium,No
+2069,Eau Claire,Medium,Yes
+2070,Sarasota,Low,No
+2071,Wilson,High,No
+2072,Athens-Clarke,Medium,No
+2073,Pearland,Low,No
+2074,Kendall,NA,Yes
+2075,Sarasota,Low,No
+2076,Saint Louis Park,Low,No
+2077,Glendora,High,No
+2078,Lynwood,High,No
+2079,Rockford,Medium,No
+2080,Bloomfield,Low,No
+2081,Newport News,Low,Yes
+2082,Chico,Medium,No
+2083,West Orange,Low,No
+2084,Blacksburg,High,No
+2085,Walnut Creek,Low,No
+2086,Walnut Creek,Low,No
+2087,Blacksburg,High,No
+2088,Chandler,Low,No
+2089,San Buenaventura,Low,No
+2090,San Buenaventura,High,No
+2091,Bloomfield,High,No
+2092,Woodland,Medium,No
+2093,Findlay,Medium,No
+2094,Elizabeth,Low,No
+2095,Fort Worth,Low,No
+2096,Overland Park,Low,Yes
+2097,Hattiesburg,High,No
+2098,West Orange,Medium,No
+2099,Alameda,High,No
+2100,Grand Island,Low,Yes
+2101,Bloomfield,Medium,No
+2102,Rockford,Low,Yes
+2103,Westminster,Medium,No
+2104,Toledo,Medium,No
+2105,NA,High,No
+2106,West Sacramento,High,No
+2107,San Clemente,Medium,No
+2108,Hamilton,Low,No
+2109,Hemet,Low,Yes
+2110,Blacksburg,High,No
+2111,Gilbert,Low,No
+2112,Waterbury,Low,No
+2113,Mesa,Low,No
+2114,NA,Low,Yes
+2115,Kendall,Low,No
+2116,Findlay,High,No
+2117,Saint Louis Park,NA,No
+2118,NA,Medium,No
+2119,Wilkes-Barre,High,No
+2120,DeKalb,Medium,No
+2121,Toledo,High,No
+2122,Minneapolis,Medium,No
+2123,Gilbert,High,No
+2124,Walnut Creek,Medium,No
+2125,Florence-Graham,Medium,No
+2126,Wilson,High,No
+2127,NA,High,No
+2128,Crystal Lake,Medium,No
+2129,Minnetonka,High,No
+2130,Joliet,High,No
+2131,Vacaville,Medium,No
+2132,Fort Wayne,High,No
+2133,Sioux City,Low,No
+2134,Sioux City,High,No
+2135,Lynwood,Medium,No
+2136,Somerville,Medium,No
+2137,Wilson,Low,No
+2138,Westminster,High,No
+2139,Cherry Hill,Medium,No
+2140,Overland Park,Low,No
+2141,Wilkes-Barre,High,No
+2142,Athens-Clarke,Medium,No
+2143,Walnut Creek,NA,No
+2144,Wilson,High,No
+2145,Toledo,Low,No
+2146,Boynton Beach,Medium,No
+2147,Pleasanton,High,No
+2148,Fort Wayne,NA,Yes
+2149,Somerville,Medium,No
+2150,Wilson,High,No
+2151,Cary,Low,Yes
+2152,Sarasota,Medium,No
+2153,Athens-Clarke,High,No
+2154,NA,NA,Yes
+2155,Athens-Clarke,Low,Yes
+2156,Racine,Low,No
+2157,Topeka,Low,No
+2158,Crystal Lake,Medium,No
+2159,Walnut Creek,High,No
+2160,Joliet,Medium,No
+2161,Bellflower,Low,No
+2162,Topeka,Medium,No
+2163,Bellflower,High,No
+2164,Wilson,High,No
+2165,NA,High,No
+2166,San Clemente,High,No
+2167,Minneapolis,High,No
+2168,Lynwood,Medium,No
+2169,Fort Smith,Medium,No
+2170,Salt Lake City,Medium,No
+2171,Alameda,Medium,No
+2172,Shelby,Low,Yes
+2173,Nashua,Low,No
+2174,Beaverton,Medium,No
+2175,Saint Louis Park,Medium,No
+2176,Wilkes-Barre,Medium,Yes
+2177,Sioux City,Low,No
+2178,Pleasanton,Low,No
+2179,NA,Medium,No
+2180,Chico,Low,Yes
+2181,Shelby,Medium,No
+2182,Woodland,NA,No
+2183,Indio,NA,No
+2184,Fort Myers,High,No
+2185,Chico,High,No
+2186,Garden Grove,Low,Yes
+2187,Sarasota,Medium,No
+2188,Pittsburgh,Low,Yes
+2189,Grand Island,Low,Yes
+2190,Westland,Low,No
+2191,Austin,Medium,No
+2192,Hemet,NA,No
+2193,Eau Claire,Medium,Yes
+2194,Kendall,High,No
+2195,Passaic,Low,No
+2196,San Buenaventura,Medium,No
+2197,Ellicott City,High,No
+2198,Pearland,Low,Yes
+2199,Saint Louis Park,Low,No
+2200,Chico,High,No
+2201,NA,High,No
+2202,Hemet,Medium,No
+2203,Bridgewater,High,No
+2204,North Bethesda,Low,No
+2205,Edinburg,Low,Yes
+2206,Overland Park,Low,Yes
+2207,NA,Low,No
+2208,Bridgewater,High,No
+2209,Cherry Hill,Medium,Yes
+2210,Bolingbrook,Medium,No
+2211,Wheaton-Glenmont,High,No
+2212,Florence-Graham,High,No
+2213,Concord,Low,No
+2214,Fort Worth,High,No
+2215,Fort Wayne,Medium,No
+2216,Woodland,High,No
+2217,Detroit,Medium,No
+2218,Kalamazoo,High,No
+2219,Fort Myers,Low,No
+2220,Kalamazoo,Low,Yes
+2221,Waterbury,Medium,No
+2222,Athens-Clarke,Low,Yes
+2223,Topeka,Medium,No
+2224,Overland Park,Low,Yes
+2225,Garden Grove,Low,Yes
+2226,Bryan,High,No
+2227,Pharr,High,No
+2228,Waterbury,NA,No
+2229,Crystal Lake,Medium,No
+2230,Citrus Heights,Medium,No
+2231,NA,Low,No
+2232,Saint Louis Park,Low,No
+2233,Kalamazoo,Medium,No
+2234,Edinburg,Medium,No
+2235,Watsonville,High,No
+2236,Minneapolis,High,No
+2237,Salt Lake City,Medium,No
+2238,Pocatello,Medium,No
+2239,Pittsburgh,Medium,No
+2240,Hoboken,Medium,No
+2241,Grand Island,Low,Yes
+2242,Lynwood,High,No
+2243,Joliet,High,No
+2244,Sioux City,Medium,Yes
+2245,Austin,Low,Yes
+2246,Fort Wayne,High,No
+2247,Eau Claire,Low,No
+2248,Hilo,Medium,No
+2249,North Bethesda,Medium,No
+2250,Wilkes-Barre,Low,Yes
+2251,Elizabeth,Medium,No
+2252,Alameda,Medium,No
+2253,Detroit,Medium,No
+2254,Apple Valley,High,No
+2255,Chandler,Low,No
+2256,Overland Park,Low,No
+2257,Franconia,Medium,No
+2258,Cary,Medium,Yes
+2259,Westland,High,No
+2260,Pearland,High,No
+2261,Salt Lake City,Low,Yes
+2262,NA,High,No
+2263,Alameda,Low,No
+2264,Grand Island,High,No
+2265,Pittsburgh,Low,No
+2266,Chico,Medium,No
+2267,NA,Low,Yes
+2268,Florence-Graham,Medium,No
+2269,Westland,Low,No
+2270,Indio,High,No
+2271,Newport News,Medium,No
+2272,Bridgewater,High,No
+2273,Pearland,Low,Yes
+2274,Vacaville,High,No
+2275,Pleasanton,High,No
+2276,Dothan,Medium,No
+2277,NA,High,No
+2278,Cary,Low,No
+2279,Ames,Medium,No
+2280,Salt Lake City,High,No
+2281,Pearland,Low,No
+2282,Peoria,Low,Yes
+2283,Athens-Clarke,Low,Yes
+2284,Yorba Linda,Low,No
+2285,Sioux City,High,No
+2286,Hamilton,High,No
+2287,Franconia,High,No
+2288,North Bethesda,High,No
+2289,Topeka,High,No
+2290,Austin,Low,Yes
+2291,Hemet,Low,Yes
+2292,Detroit,High,No
+2293,Pittsburgh,Medium,Yes
+2294,Pleasanton,High,No
+2295,NA,Medium,No
+2296,Austin,High,No
+2297,Eau Claire,Low,Yes
+2298,Bolingbrook,High,No
+2299,Fort Smith,Medium,No
+2300,Minneapolis,Medium,No
+2301,Edinburg,Low,Yes
+2302,Somerville,Medium,No
+2303,Ames,Low,No
+2304,Ames,Low,Yes
+2305,Carson,Medium,No
+2306,Saint Louis Park,High,No
+2307,West Sacramento,Low,No
+2308,Indio,High,No
+2309,Pasco,Medium,No
+2310,Minnetonka,High,No
+2311,Newport News,Medium,No
+2312,Edinburg,Medium,No
+2313,Pasco,Low,Yes
+2314,Chandler,Low,No
+2315,Dothan,Low,No
+2316,Kalamazoo,Low,Yes
+2317,Haverhill,High,No
+2318,Fort Myers,Medium,No
+2319,Dothan,Low,No
+2320,Minneapolis,High,No
+2321,Beaverton,Medium,No
+2322,NA,Medium,No
+2323,Bridgewater,Low,No
+2324,Citrus Heights,Low,No
+2325,Minnetonka,Medium,No
+2326,Hoboken,High,No
+2327,Grand Island,Low,Yes
+2328,North Bethesda,Medium,No
+2329,Walnut Creek,NA,Yes
+2330,Eau Claire,High,No
+2331,Waterbury,Medium,No
+2332,Pleasanton,Medium,No
+2333,Apple Valley,High,No
+2334,Findlay,Low,No
+2335,Ames,High,No
+2336,Fort Wayne,High,No
+2337,Rockford,High,No
+2338,Austin,Low,No
+2339,Bolingbrook,High,No
+2340,Fort Worth,Low,Yes
+2341,Findlay,Low,No
+2342,Cary,High,No
+2343,Hamilton,Low,Yes
+2344,Eau Claire,Low,No
+2345,DeKalb,Medium,No
+2346,Franconia,Medium,No
+2347,DeKalb,Low,Yes
+2348,Lynwood,High,No
+2349,Walnut Creek,Low,Yes
+2350,Pittsburgh,Medium,No
+2351,Fort Myers,Medium,No
+2352,Ellicott City,Low,No
+2353,West Orange,NA,No
+2354,Pharr,High,No
+2355,Nashua,Low,No
+2356,NA,Low,No
+2357,Hemet,Medium,No
+2358,Yorba Linda,NA,No
+2359,Minneapolis,Medium,Yes
+2360,Mansfield,Medium,No
+2361,Hartford,Low,No
+2362,Topeka,Medium,No
+2363,Bellflower,Medium,No
+2364,Battle Creek,Medium,Yes
+2365,Pocatello,Medium,No
+2366,Carson,High,No
+2367,Pharr,Low,Yes
+2368,Westland,Medium,Yes
+2369,Lynwood,Medium,No
+2370,Grand Island,Medium,No
+2371,Pharr,High,No
+2372,Hattiesburg,Low,No
+2373,North Bethesda,Medium,No
+2374,Pittsburgh,Medium,Yes
+2375,Apple Valley,High,No
+2376,Pasco,Medium,No
+2377,Glendora,Low,No
+2378,Sarasota,Low,No
+2379,Newport News,NA,No
+2380,Hemet,Medium,No
+2381,Rockford,High,No
+2382,Citrus Heights,High,No
+2383,North Bethesda,High,No
+2384,Fort Worth,High,No
+2385,North Bethesda,High,No
+2386,Elizabeth,Medium,No
+2387,Concord,High,No
+2388,Bloomfield,Low,No
+2389,Cherry Hill,High,No
+2390,Detroit,Medium,No
+2391,Bloomfield,High,No
+2392,Turlock,Low,No
+2393,Bellflower,High,No
+2394,Carson,Medium,No
+2395,Jupiter,High,No
+2396,Pocatello,Medium,Yes
+2397,Bryan,Low,Yes
+2398,Glendora,Low,No
+2399,Concord,Low,No
+2400,Westland,Low,Yes
+2401,Fort Worth,Low,No
+2402,Joliet,High,No
+2403,Pleasanton,Low,Yes
+2404,Hoboken,Medium,No
+2405,Sioux City,High,No
+2406,Dothan,High,No
+2407,NA,High,No
+2408,Vacaville,Medium,No
+2409,San Buenaventura,High,No
+2410,Woodland,Low,No
+2411,Garden Grove,Medium,Yes
+2412,Ellicott City,Low,No
+2413,Pleasanton,Medium,Yes
+2414,Pearland,Medium,No
+2415,Haverhill,Medium,No
+2416,Carson,Low,Yes
+2417,Crystal Lake,Low,Yes
+2418,Citrus Heights,High,No
+2419,Wheaton-Glenmont,Medium,No
+2420,Broken Arrow,Medium,No
+2421,San Buenaventura,Low,No
+2422,Montgomery Village,Medium,No
+2423,DeKalb,High,No
+2424,Waterbury,High,No
+2425,Edinburg,High,No
+2426,NA,Low,No
+2427,Wilkes-Barre,High,No
+2428,Hoboken,High,No
+2429,Concord,Low,No
+2430,Elizabeth,Medium,No
+2431,Detroit,Low,Yes
+2432,Chandler,Low,Yes
+2433,Vacaville,High,No
+2434,Nashua,Medium,Yes
+2435,Chico,High,No
+2436,Minneapolis,Medium,No
+2437,Westland,Medium,Yes
+2438,Hartford,Low,Yes
+2439,San Clemente,Low,No
+2440,Turlock,High,No
+2441,Crystal Lake,High,No
+2442,NA,Low,Yes
+2443,Concord,Medium,No
+2444,Dothan,High,No
+2445,Rockford,Medium,No
+2446,Lynwood,High,No
+2447,Ellicott City,Medium,No
+2448,Sioux City,High,No
+2449,Bridgewater,Medium,No
+2450,West Sacramento,Medium,No
+2451,Mansfield,Medium,No
+2452,Battle Creek,High,No
+2453,NA,NA,No
+2454,Gilbert,High,No
+2455,Hoboken,High,No
+2456,Rockford,Medium,No
+2457,Haverhill,Medium,No
+2458,Toledo,Low,Yes
+2459,Charleston,Medium,No
+2460,Wilson,Low,Yes
+2461,Battle Creek,Low,No
+2462,Austin,Low,No
+2463,Somerville,Medium,No
+2464,Nashua,Low,Yes
+2465,Shelby,High,No
+2466,Haverhill,Low,No
+2467,Athens-Clarke,High,No
+2468,Watsonville,Medium,No
+2469,Franconia,Low,Yes
+2470,Passaic,Low,No
+2471,Austin,Medium,No
+2472,Peoria,Low,No
+2473,Findlay,High,No
+2474,Joliet,High,No
+2475,Hoboken,High,No
+2476,Bryan,Medium,Yes
+2477,Nashua,High,No
+2478,Carson,Low,Yes
+2479,Haverhill,Low,No
+2480,Sioux City,Medium,No
+2481,Battle Creek,Low,Yes
+2482,NA,Low,No
+2483,San Buenaventura,High,No
+2484,Glendora,Medium,No
+2485,Alameda,Medium,Yes
+2486,Passaic,Low,No
+2487,NA,Low,No
+2488,Fort Worth,Low,Yes
+2489,Elizabeth,Low,No
+2490,Wilkes-Barre,Low,No
+2491,Garden Grove,High,No
+2492,Blacksburg,Low,No
+2493,Franconia,Medium,No
+2494,Dothan,Medium,No
+2495,Topeka,High,No
+2496,Bellflower,Medium,No
+2497,Vacaville,Medium,No
+2498,Jupiter,Low,No
+2499,Vacaville,High,No
+2500,Hattiesburg,Medium,No
+2501,Ellicott City,NA,No
+2502,Gilbert,High,No
+2503,Peoria,Low,No
+2504,Minneapolis,Low,No
+2505,Wheaton-Glenmont,Low,Yes
+2506,San Clemente,Low,No
+2507,Athens-Clarke,Medium,No
+2508,Cary,Low,No
+2509,Concord,High,No
+2510,Somerville,Medium,No
+2511,Austin,Low,No
+2512,Nashua,Medium,No
+2513,Walnut Creek,High,No
+2514,Findlay,Medium,No
+2515,NA,Low,No
+2516,Topeka,High,No
+2517,Rockford,Low,No
+2518,Crystal Lake,Medium,No
+2519,Wilson,Medium,No
+2520,Hartford,High,No
+2521,Cary,Medium,Yes
+2522,Ellicott City,High,No
+2523,Hartford,Low,No
+2524,Somerville,Low,No
+2525,Waterbury,Medium,No
+2526,NA,Medium,No
+2527,Fort Myers,Low,No
+2528,Ellicott City,Medium,No
+2529,Wilson,Medium,No
+2530,Bloomfield,High,No
+2531,Crystal Lake,Low,No
+2532,Pasco,Medium,No
+2533,Westminster,Medium,No
+2534,Hemet,Low,No
+2535,Mesa,High,No
+2536,Cherry Hill,Low,Yes
+2537,Pleasanton,Medium,No
+2538,Alameda,Low,Yes
+2539,Glendora,High,No
+2540,San Clemente,Low,Yes
+2541,Citrus Heights,Low,No
+2542,Boynton Beach,High,No
+2543,Pearland,Low,No
+2544,Newport News,Medium,No
+2545,Kendall,NA,No
+2546,Beaverton,Medium,No
+2547,Grand Island,Medium,No
+2548,Battle Creek,High,No
+2549,Turlock,High,No
+2550,Franconia,Low,No
+2551,Kendall,Low,No
+2552,Montgomery Village,Medium,No
+2553,Peoria,Medium,No
+2554,Walnut Creek,Medium,Yes
+2555,Newport News,Low,No
+2556,Overland Park,Low,No
+2557,Toledo,Low,No
+2558,Bolingbrook,NA,Yes
+2559,Bridgewater,Low,No
+2560,Gilbert,High,No
+2561,Topeka,High,No
+2562,Cherry Hill,Low,No
+2563,Passaic,High,No
+2564,North Bethesda,High,No
+2565,Pearland,Medium,No
+2566,Turlock,High,No
+2567,Eau Claire,Low,No
+2568,Toledo,Low,No
+2569,Gilbert,Medium,No
+2570,Concord,NA,No
+2571,Racine,High,No
+2572,Salt Lake City,High,No
+2573,Austin,Medium,No
+2574,NA,NA,Yes
+2575,Vacaville,High,No
+2576,Haverhill,Medium,No
+2577,Mesa,High,No
+2578,Eau Claire,NA,No
+2579,Hemet,High,No
+2580,Hemet,High,No
+2581,Pocatello,Medium,No
+2582,Fond du Lac,NA,Yes
+2583,Cary,Low,Yes
+2584,Waterbury,High,No
+2585,Watsonville,Low,No
+2586,Yorba Linda,Low,No
+2587,Ames,High,No
+2588,Jupiter,Low,No
+2589,Ellicott City,Low,No
+2590,Salt Lake City,High,No
+2591,Ellicott City,High,No
+2592,Broken Arrow,Low,No
+2593,Waterbury,Low,Yes
+2594,Fort Myers,High,No
+2595,West Orange,Medium,No
+2596,Citrus Heights,Low,No
+2597,Ames,Medium,No
+2598,Haverhill,High,No
+2599,Nashua,Low,No
+2600,Fort Worth,High,Yes
+2601,Nashua,Medium,No
+2602,Hemet,Medium,No
+2603,Edinburg,Medium,No
+2604,Apple Valley,Medium,No
+2605,Pocatello,Low,No
+2606,Haverhill,Low,Yes
+2607,Wilkes-Barre,High,No
+2608,Mansfield,Medium,No
+2609,Fond du Lac,Low,No
+2610,NA,Medium,No
+2611,Findlay,High,No
+2612,Bloomfield,Medium,No
+2613,Pittsburgh,Medium,No
+2614,NA,Medium,No
+2615,Westland,High,No
+2616,Chico,High,No
+2617,Topeka,Low,No
+2618,NA,Low,Yes
+2619,DeKalb,High,No
+2620,Jupiter,Low,No
+2621,Minneapolis,High,No
+2622,Bellflower,High,No
+2623,Indio,Medium,No
+2624,NA,Medium,No
+2625,Crystal Lake,Medium,No
+2626,Pleasanton,Medium,No
+2627,Waterbury,Low,No
+2628,Vacaville,Low,Yes
+2629,Pharr,Medium,No
+2630,Saint Louis Park,Medium,No
+2631,NA,Low,Yes
+2632,Pittsburgh,Low,Yes
+2633,Bridgewater,Low,No
+2634,Elizabeth,Medium,No
+2635,Westminster,NA,No
+2636,Lynwood,Low,Yes
+2637,Pearland,Low,Yes
+2638,Austin,NA,Yes
+2639,Franconia,Medium,No
+2640,Passaic,NA,No
+2641,Detroit,Low,No
+2642,Blacksburg,High,No
+2643,NA,Medium,Yes
+2644,Kalamazoo,Low,Yes
+2645,Crystal Lake,Medium,No
+2646,Lynwood,Medium,Yes
+2647,Waterbury,High,No
+2648,Alameda,Low,Yes
+2649,Waterbury,Medium,No
+2650,Newport News,Low,Yes
+2651,Yorba Linda,High,No
+2652,Apple Valley,Low,Yes
+2653,Hoboken,High,No
+2654,Walnut Creek,High,No
+2655,NA,Medium,No
+2656,Austin,Medium,No
+2657,Bridgewater,High,No
+2658,San Clemente,High,No
+2659,Kalamazoo,Low,No
+2660,Bellflower,Low,Yes
+2661,Elizabeth,Low,No
+2662,Detroit,Medium,No
+2663,Glendora,Low,Yes
+2664,Mansfield,High,No
+2665,Bellflower,Medium,No
+2666,Chico,High,No
+2667,Charleston,Medium,No
+2668,Fort Wayne,Low,No
+2669,Bryan,Medium,No
+2670,West Sacramento,Low,No
+2671,Eau Claire,Medium,No
+2672,Fort Worth,High,No
+2673,NA,Medium,No
+2674,Kendall,High,No
+2675,Cary,High,No
+2676,Sarasota,High,No
+2677,Crystal Lake,Low,No
+2678,Fort Worth,Medium,No
+2679,NA,High,No
+2680,Pittsburgh,Medium,Yes
+2681,Peoria,Low,Yes
+2682,Fort Myers,Low,No
+2683,Ellicott City,Low,No
+2684,Hamilton,Medium,No
+2685,Detroit,High,No
+2686,Bolingbrook,High,No
+2687,Pittsburgh,High,Yes
+2688,Yorba Linda,Medium,No
+2689,Toledo,High,No
+2690,NA,NA,No
+2691,Jupiter,High,No
+2692,Pearland,High,No
+2693,Austin,High,No
+2694,Hoboken,Medium,No
+2695,Haverhill,Medium,No
+2696,Newport News,Medium,No
+2697,Lynwood,High,No
+2698,Charleston,Low,No
+2699,Athens-Clarke,Low,No
+2700,Bridgewater,High,No
+2701,Pleasanton,High,No
+2702,Fort Worth,Low,No
+2703,Watsonville,High,No
+2704,Hoboken,Medium,Yes
+2705,DeKalb,Low,Yes
+2706,Fort Smith,High,No
+2707,Shelby,Medium,No
+2708,Concord,High,No
+2709,Pittsburgh,NA,No
+2710,Toledo,Low,No
+2711,Bellflower,Medium,No
+2712,Hilo,Low,No
+2713,Minneapolis,High,No
+2714,Vacaville,High,No
+2715,Crystal Lake,Medium,No
+2716,San Buenaventura,High,No
+2717,Garden Grove,Medium,No
+2718,Pharr,Medium,No
+2719,Alameda,Low,No
+2720,Ames,Medium,No
+2721,Fort Smith,Low,No
+2722,Broken Arrow,High,No
+2723,Kalamazoo,NA,Yes
+2724,Apple Valley,Low,No
+2725,Crystal Lake,High,No
+2726,Blacksburg,High,No
+2727,Walnut Creek,Medium,No
+2728,Hemet,Medium,No
+2729,Peoria,Medium,No
+2730,Cary,High,No
+2731,Passaic,Medium,No
+2732,Mansfield,NA,No
+2733,Somerville,Low,No
+2734,Fond du Lac,High,No
+2735,Topeka,NA,No
+2736,Chandler,Low,Yes
+2737,Chandler,Medium,No
+2738,Kendall,Low,No
+2739,Fort Wayne,Medium,No
+2740,Hattiesburg,Medium,No
+2741,Sioux City,High,No
+2742,Florence-Graham,High,No
+2743,Saint Louis Park,Medium,No
+2744,Minnetonka,Medium,No
+2745,Peoria,Low,No
+2746,Newport News,Medium,No
+2747,Lynwood,Low,No
+2748,Florence-Graham,Medium,No
+2749,Pearland,High,No
+2750,Racine,Low,No
+2751,Hamilton,NA,Yes
+2752,Joliet,Low,No
+2753,Yorba Linda,High,No
+2754,Overland Park,Low,Yes
+2755,Dothan,Medium,No
+2756,Woodland,Medium,No
+2757,Kendall,Low,No
+2758,Boynton Beach,Medium,No
+2759,Apple Valley,High,No
+2760,Somerville,Low,No
+2761,NA,High,No
+2762,Ames,Low,Yes
+2763,Athens-Clarke,Medium,No
+2764,Mansfield,Low,No
+2765,Bryan,Low,No
+2766,Hemet,NA,Yes
+2767,Alameda,High,No
+2768,Bridgewater,High,No
+2769,Woodland,Medium,No
+2770,Charleston,Medium,No
+2771,Apple Valley,Low,No
+2772,NA,High,No
+2773,Rockford,Medium,No
+2774,Montgomery Village,Medium,No
+2775,NA,High,No
+2776,Sioux City,Low,Yes
+2777,Westland,Low,Yes
+2778,Blacksburg,Low,No
+2779,Eau Claire,High,No
+2780,Turlock,Medium,No
+2781,Peoria,High,No
+2782,Pharr,Medium,No
+2783,Rockford,Low,Yes
+2784,Edinburg,High,No
+2785,NA,Low,No
+2786,Cherry Hill,High,No
+2787,Jupiter,Low,Yes
+2788,Hoboken,Medium,No
+2789,North Bethesda,High,No
+2790,Austin,Low,Yes
+2791,Boynton Beach,Low,Yes
+2792,Turlock,High,No
+2793,Pasco,High,No
+2794,San Buenaventura,Medium,No
+2795,Charleston,High,No
+2796,Jupiter,Low,No
+2797,Hoboken,High,No
+2798,Edinburg,Medium,No
+2799,DeKalb,Medium,No
+2800,NA,High,No
+2801,Jupiter,Low,Yes
+2802,Pasco,Low,No
+2803,Westminster,Medium,No
+2804,Grand Island,High,Yes
+2805,Westminster,Low,No
+2806,Salt Lake City,High,No
+2807,Pharr,Low,Yes
+2808,Crystal Lake,Low,No
+2809,Alameda,Medium,No
+2810,Fort Worth,High,No
+2811,Racine,High,No
+2812,Charleston,Low,No
+2813,Carson,High,No
+2814,Racine,Low,No
+2815,Topeka,Low,No
+2816,Peoria,Medium,No
+2817,Chico,Medium,No
+2818,Racine,Low,No
+2819,Broken Arrow,High,No
+2820,Hemet,Low,No
+2821,Cherry Hill,Low,No
+2822,Mesa,Medium,No
+2823,Hoboken,Medium,No
+2824,Lynwood,Medium,Yes
+2825,Edinburg,Medium,No
+2826,Detroit,Low,No
+2827,Lynwood,Low,No
+2828,Topeka,Low,No
+2829,Peoria,Low,No
+2830,Hoboken,Medium,No
+2831,Woodland,Low,No
+2832,NA,Low,No
+2833,NA,Low,No
+2834,Glendora,High,No
+2835,Yonkers,High,No
+2836,Hoboken,High,No
+2837,Lynwood,Low,No
+2838,Yorba Linda,High,No
+2839,Concord,Low,No
+2840,Rockford,Low,No
+2841,Pasco,NA,No
+2842,Westminster,High,No
+2843,Dothan,High,No
+2844,Cherry Hill,High,No
+2845,Mansfield,Low,No
+2846,Kendall,Low,No
+2847,Ames,Low,No
+2848,Dothan,High,No
+2849,NA,High,No
+2850,Overland Park,Low,No
+2851,Bolingbrook,Low,No
+2852,Alameda,High,No
+2853,Fort Wayne,High,No
+2854,Vacaville,Medium,No
+2855,Pleasanton,Medium,No
+2856,Jupiter,Low,No
+2857,Turlock,Low,No
+2858,Woodland,Low,Yes
+2859,Pocatello,Low,No
+2860,Wilkes-Barre,High,No
+2861,Dothan,Medium,No
+2862,Fort Smith,Medium,Yes
+2863,Kendall,High,No
+2864,Minnetonka,High,No
+2865,Lynwood,High,No
+2866,Bloomfield,High,No
+2867,Hemet,NA,No
+2868,Minnetonka,High,No
+2869,NA,NA,Yes
+2870,Fort Worth,Medium,No
+2871,Crystal Lake,Medium,Yes
+2872,Ellicott City,Low,No
+2873,Newport News,Medium,No
+2874,Pearland,Medium,No
+2875,Battle Creek,Medium,No
+2876,Watsonville,Medium,No
+2877,Pasco,Medium,No
+2878,Minnetonka,Medium,No
+2879,Turlock,High,No
+2880,Rockford,Low,No
+2881,Pleasanton,Medium,No
+2882,Mansfield,Low,No
+2883,Bloomfield,Low,Yes
+2884,Dothan,Medium,Yes
+2885,Chico,High,No
+2886,Broken Arrow,Medium,No
+2887,Montgomery Village,High,No
+2888,Wilkes-Barre,High,No
+2889,Wheaton-Glenmont,Low,No
+2890,Watsonville,Medium,No
+2891,Haverhill,Low,Yes
+2892,Bolingbrook,High,No
+2893,Mesa,Medium,No
+2894,Hattiesburg,High,No
+2895,Carson,Medium,No
+2896,Pasco,Medium,No
+2897,Yorba Linda,Medium,No
+2898,NA,Medium,No
+2899,Findlay,High,No
+2900,Fort Myers,High,No
+2901,Pharr,High,No
+2902,Montgomery Village,Low,No
+2903,Cherry Hill,NA,Yes
+2904,Yonkers,Low,No
+2905,Minneapolis,High,No
+2906,Minneapolis,Low,Yes
+2907,Rockford,Low,No
+2908,Beaverton,High,Yes
+2909,Carson,Medium,No
+2910,Kalamazoo,Low,Yes
+2911,Peoria,Medium,No
+2912,Fort Wayne,High,No
+2913,Citrus Heights,High,No
+2914,Passaic,High,No
+2915,Kendall,Medium,No
+2916,Glendora,High,No
+2917,Pleasanton,Medium,No
+2918,Austin,Medium,No
+2919,West Sacramento,High,No
+2920,Elizabeth,Medium,No
+2921,Hilo,Medium,No
+2922,Toledo,Low,No
+2923,NA,High,No
+2924,Hoboken,Low,Yes
+2925,Peoria,Medium,No
+2926,Nashua,Medium,No
+2927,Blacksburg,Medium,No
+2928,Apple Valley,Low,No
+2929,Austin,Medium,No
+2930,Cherry Hill,NA,Yes
+2931,Racine,Medium,No
+2932,Minnetonka,High,No
+2933,Westminster,Low,No
+2934,Elizabeth,High,No
+2935,Crystal Lake,Medium,No
+2936,Dothan,Medium,Yes
+2937,Battle Creek,Low,Yes
+2938,Gilbert,Low,Yes
+2939,Kalamazoo,Medium,No
+2940,Gilbert,Low,Yes
+2941,Peoria,Medium,Yes
+2942,Vacaville,Medium,No
+2943,Elizabeth,High,No
+2944,Bellflower,High,No
+2945,Wilson,Low,No
+2946,Peoria,Medium,No
+2947,West Sacramento,High,No
+2948,Findlay,NA,Yes
+2949,Jupiter,Medium,No
+2950,Hilo,Medium,No
+2951,Turlock,Medium,No
+2952,Nashua,Medium,Yes
+2953,Pocatello,Low,No
+2954,Newport News,Medium,No
+2955,Hartford,Low,Yes
+2956,Hilo,Medium,No
+2957,Mesa,Low,No
+2958,Vacaville,Medium,No
+2959,Cary,High,No
+2960,Minneapolis,Medium,No
+2961,Passaic,Medium,No
+2962,Vacaville,Low,Yes
+2963,Sarasota,High,No
+2964,Detroit,Medium,No
+2965,NA,Medium,No
+2966,Charleston,Low,Yes
+2967,Pasco,High,No
+2968,Shelby,Medium,No
+2969,Ellicott City,Low,No
+2970,Nashua,Low,No
+2971,Vacaville,NA,No
+2972,Beaverton,Medium,No
+2973,Eau Claire,Low,Yes
+2974,Austin,High,No
+2975,Yorba Linda,Medium,No
+2976,Franconia,Low,Yes
+2977,Fort Myers,Low,Yes
+2978,Boynton Beach,High,No
+2979,Hilo,Low,No
+2980,Mansfield,Low,No
+2981,Athens-Clarke,High,No
+2982,Overland Park,Low,Yes
+2983,Haverhill,High,No
+2984,Lynwood,Low,Yes
+2985,Hattiesburg,Low,Yes
+2986,Pocatello,Low,No
+2987,West Orange,High,No
+2988,Bolingbrook,Medium,No
+2989,Watsonville,Medium,No
+2990,Passaic,Medium,No
+2991,Ellicott City,NA,No
+2992,Indio,Low,No
+2993,Sarasota,Low,Yes
+2994,Mesa,High,No
+2995,Pleasanton,Low,No
+2996,Broken Arrow,Medium,No
+2997,Hoboken,High,No
+2998,NA,Low,No
+2999,Pharr,Low,Yes
+3000,Hemet,High,No
+3001,Waterbury,Low,No
+3002,Franconia,NA,No
+3003,Bryan,High,No
+3004,NA,High,No
+3005,Minneapolis,Low,Yes
+3006,Charleston,Low,No
+3007,Hemet,Medium,No
+3008,Boynton Beach,High,No
+3009,Kendall,Medium,No
+3010,Jupiter,Medium,No
+3011,Detroit,NA,Yes
+3012,Franconia,High,No
+3013,Hilo,Medium,Yes
+3014,Woodland,Low,No
+3015,Fort Myers,Low,Yes
+3016,Fort Wayne,Medium,No
+3017,Pocatello,Medium,No
+3018,Pocatello,Low,Yes
+3019,Bryan,Low,No
+3020,Joliet,Low,No
+3021,NA,Medium,No
+3022,Saint Louis Park,NA,No
+3023,Woodland,Medium,No
+3024,Fort Myers,Low,No
+3025,Boynton Beach,Low,Yes
+3026,Turlock,Low,No
+3027,Toledo,Low,No
+3028,Citrus Heights,Medium,No
+3029,Elizabeth,High,No
+3030,NA,Low,Yes
+3031,Fort Wayne,Medium,No
+3032,Mansfield,High,No
+3033,Franconia,Low,No
+3034,Pharr,Low,No
+3035,Westland,Low,No
+3036,Bolingbrook,Medium,No
+3037,Hemet,Medium,No
+3038,Austin,NA,No
+3039,Salt Lake City,Low,No
+3040,Cherry Hill,Medium,No
+3041,Boynton Beach,Low,Yes
+3042,Detroit,High,No
+3043,Jupiter,Medium,No
+3044,Bellflower,NA,Yes
+3045,Crystal Lake,NA,No
+3046,San Buenaventura,Low,Yes
+3047,Montgomery Village,Low,Yes
+3048,Hamilton,Low,No
+3049,Gilbert,High,No
+3050,Bellflower,High,No
+3051,Watsonville,Low,No
+3052,Hartford,Medium,Yes
+3053,Bellflower,Medium,No
+3054,Bellflower,Low,No
+3055,Yonkers,Medium,No
+3056,Hemet,Low,No
+3057,San Buenaventura,Medium,No
+3058,Toledo,Medium,Yes
+3059,Yonkers,Medium,No
+3060,San Clemente,Medium,No
+3061,Westland,Low,Yes
+3062,Westland,Medium,No
+3063,Grand Island,High,No
+3064,Rockford,High,No
+3065,Indio,High,No
+3066,Mansfield,Low,Yes
+3067,Athens-Clarke,High,No
+3068,Sioux City,Medium,Yes
+3069,Bryan,High,No
+3070,Boynton Beach,High,No
+3071,Hoboken,NA,Yes
+3072,Bridgewater,High,No
+3073,NA,Medium,No
+3074,Pearland,Medium,No
+3075,Shelby,NA,Yes
+3076,Grand Island,High,No
+3077,NA,High,No
+3078,Overland Park,High,No
+3079,Pittsburgh,Low,Yes
+3080,NA,NA,Yes
+3081,Hoboken,Medium,No
+3082,Vacaville,Low,No
+3083,North Bethesda,High,No
+3084,Cherry Hill,Medium,Yes
+3085,Chico,Medium,No
+3086,Mansfield,Medium,No
+3087,Yonkers,Low,No
+3088,Sioux City,Medium,No
+3089,Waterbury,High,No
+3090,Ellicott City,Low,No
+3091,San Buenaventura,Medium,Yes
+3092,NA,High,No
+3093,Passaic,Medium,No
+3094,Mansfield,Low,No
+3095,Mansfield,Medium,No
+3096,Glendora,High,No
+3097,Austin,High,No
+3098,Florence-Graham,Medium,Yes
+3099,San Buenaventura,Low,No
+3100,North Bethesda,Medium,No
+3101,Yorba Linda,Medium,No
+3102,Sioux City,Low,No
+3103,Dothan,High,No
+3104,Hemet,Medium,Yes
+3105,Blacksburg,Low,Yes
+3106,Carson,Medium,No
+3107,Walnut Creek,High,No
+3108,Hartford,Medium,No
+3109,Grand Island,High,No
+3110,Westminster,Medium,No
+3111,San Clemente,Medium,Yes
+3112,Hartford,Low,No
+3113,Crystal Lake,High,Yes
+3114,Battle Creek,Medium,No
+3115,Hattiesburg,Medium,No
+3116,Yonkers,Medium,Yes
+3117,NA,NA,Yes
+3118,Kalamazoo,Medium,No
+3119,NA,Medium,No
+3120,Hemet,NA,Yes
+3121,Wilkes-Barre,Low,No
+3122,Somerville,High,No
+3123,DeKalb,Low,Yes
+3124,Ellicott City,Low,No
+3125,Glendora,Medium,No
+3126,Overland Park,Medium,No
+3127,Topeka,Medium,No
+3128,Mansfield,Medium,Yes
+3129,Glendora,Medium,No
+3130,Woodland,High,No
+3131,Crystal Lake,High,No
+3132,Turlock,Medium,No
+3133,Hattiesburg,Medium,No
+3134,Bolingbrook,High,No
+3135,Turlock,Medium,No
+3136,Jupiter,High,No
+3137,Shelby,Medium,No
+3138,Indio,High,No
+3139,Kalamazoo,High,No
+3140,Joliet,Low,No
+3141,Topeka,Low,Yes
+3142,DeKalb,Medium,No
+3143,Blacksburg,Medium,No
+3144,Rockford,High,No
+3145,Athens-Clarke,Low,No
+3146,West Sacramento,High,No
+3147,Westland,High,No
+3148,Minnetonka,Low,Yes
+3149,Hoboken,High,No
+3150,Sarasota,Low,Yes
+3151,Charleston,Low,Yes
+3152,Bellflower,Low,No
+3153,Mesa,Medium,No
+3154,Alameda,High,No
+3155,Carson,Medium,No
+3156,Bolingbrook,Low,Yes
+3157,Saint Louis Park,Low,Yes
+3158,Saint Louis Park,High,No
+3159,Waterbury,High,No
+3160,Battle Creek,High,Yes
+3161,Lynwood,High,No
+3162,Topeka,Low,Yes
+3163,Franconia,NA,Yes
+3164,Bryan,NA,Yes
+3165,Sarasota,Low,No
+3166,Sioux City,Low,No
+3167,Pearland,Low,No
+3168,Concord,Medium,No
+3169,North Bethesda,Medium,No
+3170,Woodland,High,No
+3171,West Orange,Medium,Yes
+3172,Citrus Heights,Low,No
+3173,Bryan,High,No
+3174,Findlay,High,No
+3175,Sioux City,High,No
+3176,Hartford,Medium,No
+3177,Newport News,Low,No
+3178,Minnetonka,Medium,No
+3179,Pleasanton,Medium,No
+3180,Shelby,High,No
+3181,Wheaton-Glenmont,Low,No
+3182,Waterbury,High,No
+3183,Somerville,High,No
+3184,Fort Myers,High,No
+3185,Jupiter,High,No
+3186,Minneapolis,High,No
+3187,Vacaville,Low,No
+3188,NA,High,No
+3189,Wilkes-Barre,Low,No
+3190,NA,Medium,No
+3191,Wilkes-Barre,Medium,No
+3192,Chandler,NA,Yes
+3193,San Buenaventura,Low,Yes
+3194,Bolingbrook,High,No
+3195,Fort Wayne,High,No
+3196,Glendora,Medium,No
+3197,Minneapolis,Low,No
+3198,Hoboken,Medium,No
+3199,Athens-Clarke,Low,No
+3200,DeKalb,High,No
+3201,Yonkers,High,No
+3202,Waterbury,Low,No
+3203,Blacksburg,Low,Yes
+3204,Pearland,Medium,No
+3205,Franconia,Medium,No
+3206,Fond du Lac,NA,Yes
+3207,Gilbert,Low,Yes
+3208,Racine,Medium,No
+3209,Fort Wayne,Low,No
+3210,Alameda,Low,No
+3211,Yorba Linda,Medium,Yes
+3212,Crystal Lake,High,No
+3213,Vacaville,Medium,No
+3214,North Bethesda,Low,No
+3215,Newport News,Low,Yes
+3216,Edinburg,High,No
+3217,Hattiesburg,High,No
+3218,Austin,Medium,No
+3219,Detroit,High,No
+3220,Waterbury,High,No
+3221,San Buenaventura,Low,No
+3222,Woodland,High,No
+3223,Kendall,Low,No
+3224,Beaverton,High,No
+3225,Bellflower,Medium,No
+3226,Minneapolis,Low,Yes
+3227,Mesa,Low,Yes
+3228,Ellicott City,High,No
+3229,Pearland,Low,No
+3230,Fond du Lac,Low,No
+3231,Alameda,Low,No
+3232,Fort Worth,Medium,No
+3233,Grand Island,High,No
+3234,Topeka,Medium,No
+3235,Peoria,High,No
+3236,Wilson,High,No
+3237,Wilkes-Barre,High,No
+3238,Fort Myers,Medium,No
+3239,Bryan,High,No
+3240,San Buenaventura,Low,No
+3241,Passaic,Medium,No
+3242,Eau Claire,High,No
+3243,Kalamazoo,High,No
+3244,Fort Worth,Low,No
+3245,Minnetonka,High,No
+3246,Pocatello,High,No
+3247,Bridgewater,Medium,No
+3248,Walnut Creek,Medium,No
+3249,Newport News,Low,No
+3250,NA,Medium,No
+3251,Bloomfield,High,No
+3252,Glendora,Medium,No
+3253,Toledo,Low,Yes
+3254,Alameda,Low,No
+3255,Findlay,High,No
+3256,Montgomery Village,NA,Yes
+3257,Ellicott City,Low,Yes
+3258,Athens-Clarke,High,No
+3259,Fort Smith,Medium,No
+3260,Hilo,Low,No
+3261,Beaverton,High,No
+3262,NA,Medium,No
+3263,Lynwood,Low,No
+3264,Garden Grove,Medium,No
+3265,Grand Island,Low,Yes
+3266,Edinburg,High,No
+3267,Rockford,Medium,No
+3268,Elizabeth,Low,No
+3269,Fort Worth,High,No
+3270,Fond du Lac,Low,Yes
+3271,Bolingbrook,High,No
+3272,Blacksburg,High,No
+3273,Toledo,Medium,No
+3274,Pleasanton,High,No
+3275,North Bethesda,High,No
+3276,Newport News,Low,No
+3277,Alameda,High,No
+3278,Charleston,Low,Yes
+3279,Wilson,Medium,No
+3280,Gilbert,High,No
+3281,Westland,Medium,No
+3282,San Clemente,Low,No
+3283,Yonkers,High,No
+3284,Hoboken,High,No
+3285,Franconia,High,No
+3286,Blacksburg,Low,No
+3287,Wilson,High,No
+3288,Kendall,High,No
+3289,Haverhill,Medium,No
+3290,Turlock,Low,No
+3291,Pittsburgh,Medium,No
+3292,Eau Claire,High,No
+3293,Eau Claire,Low,No
+3294,Turlock,Medium,No
+3295,Chico,Low,No
+3296,Bridgewater,High,No
+3297,Nashua,High,No
+3298,Fort Myers,High,No
+3299,Walnut Creek,Low,No
+3300,North Bethesda,Medium,No
+3301,Overland Park,Low,Yes
+3302,Hattiesburg,Low,Yes
+3303,Athens-Clarke,High,No
+3304,San Clemente,NA,No
+3305,Chico,High,No
+3306,Overland Park,High,No
+3307,NA,High,No
+3308,Charleston,Medium,Yes
+3309,Yonkers,Medium,No
+3310,Westminster,Low,Yes
+3311,Bridgewater,Medium,No
+3312,Kalamazoo,High,No
+3313,Pearland,Low,Yes
+3314,Boynton Beach,High,No
+3315,Findlay,Low,No
+3316,NA,Low,No
+3317,Boynton Beach,High,No
+3318,Montgomery Village,High,No
+3319,Bloomfield,Medium,No
+3320,North Bethesda,High,No
+3321,West Orange,Low,No
+3322,Fond du Lac,Medium,No
+3323,Hilo,Low,No
+3324,Sioux City,NA,No
+3325,Elizabeth,Medium,No
+3326,NA,Low,No
+3327,Kendall,Medium,No
+3328,Athens-Clarke,Medium,No
+3329,Fort Myers,Medium,No
+3330,Alameda,Medium,No
+3331,Indio,High,No
+3332,Westland,Medium,No
+3333,Findlay,Low,No
+3334,Bloomfield,Medium,No
+3335,NA,High,No
+3336,Garden Grove,Low,Yes
+3337,Turlock,Medium,No
+3338,NA,Medium,No
+3339,Pearland,Medium,No
+3340,Westminster,Low,No
+3341,Glendora,NA,Yes
+3342,Fort Wayne,High,No
+3343,Yorba Linda,High,No
+3344,Elizabeth,Low,Yes
+3345,Austin,Medium,No
+3346,Blacksburg,High,No
+3347,Minneapolis,Medium,No
+3348,San Clemente,High,No
+3349,Bryan,NA,No
+3350,Carson,Medium,Yes
+3351,Blacksburg,Low,Yes
+3352,Haverhill,High,No
+3353,Peoria,High,No
+3354,Kalamazoo,Medium,No
+3355,Eau Claire,Medium,No
+3356,Overland Park,Medium,No
+3357,Sarasota,High,No
+3358,Gilbert,High,No
+3359,Fort Myers,Low,No
+3360,Hoboken,High,No
+3361,Mesa,NA,No
+3362,Carson,Low,No
+3363,Fort Myers,High,No
+3364,Bloomfield,Low,Yes
+3365,NA,Low,Yes
+3366,Fort Smith,High,No
+3367,Jupiter,High,No
+3368,Grand Island,Low,No
+3369,Hemet,Medium,No
+3370,Woodland,Medium,No
+3371,Ames,High,No
+3372,Salt Lake City,High,No
+3373,Pleasanton,Low,No
+3374,Pearland,Low,No
+3375,Shelby,Medium,No
+3376,Pittsburgh,Low,No
+3377,Pocatello,Low,Yes
+3378,Peoria,Medium,No
+3379,Jupiter,Medium,No
+3380,Jupiter,NA,No
+3381,Pocatello,Medium,No
+3382,NA,High,No
+3383,Apple Valley,Low,Yes
+3384,Mesa,Low,No
+3385,Hartford,Low,No
+3386,Hoboken,Medium,No
+3387,Racine,High,No
+3388,Newport News,Medium,No
+3389,Hilo,Medium,No
+3390,Hemet,High,No
+3391,Yorba Linda,Medium,No
+3392,Turlock,High,No
+3393,Sarasota,Low,No
+3394,Racine,Low,Yes
+3395,Glendora,Medium,No
+3396,Bolingbrook,High,No
+3397,Pocatello,Low,No
+3398,Hoboken,Low,No
+3399,Pittsburgh,Medium,No
+3400,Woodland,Medium,No
+3401,Hamilton,Low,Yes
+3402,Eau Claire,Medium,No
+3403,Jupiter,High,No
+3404,Waterbury,High,No
+3405,Kendall,Medium,No
+3406,Westminster,High,No
+3407,Watsonville,Low,Yes
+3408,Rockford,Low,No
+3409,Westland,Low,No
+3410,Waterbury,Low,No
+3411,NA,Low,No
+3412,Wheaton-Glenmont,NA,Yes
+3413,Battle Creek,Medium,No
+3414,Kendall,High,No
+3415,Chandler,Low,Yes
+3416,Battle Creek,Low,No
+3417,NA,Medium,No
+3418,Fort Wayne,Low,No
+3419,Passaic,Low,Yes
+3420,Hoboken,Low,No
+3421,Haverhill,Low,No
+3422,Dothan,High,No
+3423,Walnut Creek,High,No
+3424,Pocatello,Medium,No
+3425,Ames,High,No
+3426,Wilson,Low,No
+3427,Edinburg,High,No
+3428,Minnetonka,Medium,No
+3429,Kendall,Medium,No
+3430,Walnut Creek,Medium,No
+3431,Topeka,Medium,No
+3432,Minnetonka,Medium,No
+3433,Joliet,Low,No
+3434,Kendall,Low,Yes
+3435,Florence-Graham,Low,Yes
+3436,Jupiter,Low,No
+3437,Battle Creek,Low,No
+3438,Fond du Lac,High,No
+3439,Hemet,High,No
+3440,NA,Medium,No
+3441,Austin,High,No
+3442,Turlock,Medium,No
+3443,Grand Island,High,No
+3444,Overland Park,High,No
+3445,Apple Valley,NA,Yes
+3446,NA,Low,No
+3447,Alameda,Medium,No
+3448,Wilkes-Barre,High,No
+3449,Overland Park,High,No
+3450,Bolingbrook,High,No
+3451,Minneapolis,High,Yes
+3452,Ellicott City,High,No
+3453,Indio,High,No
+3454,Pasco,Medium,No
+3455,Bloomfield,Low,Yes
+3456,NA,High,No
+3457,Pocatello,Low,No
+3458,Fort Worth,Low,Yes
+3459,Waterbury,High,No
+3460,Salt Lake City,Low,No
+3461,Kalamazoo,High,No
+3462,Yorba Linda,High,No
+3463,Nashua,Medium,No
+3464,Peoria,Medium,No
+3465,Waterbury,Low,Yes
+3466,Nashua,Medium,No
+3467,Rockford,High,No
+3468,Fort Myers,Low,No
+3469,Bolingbrook,Low,Yes
+3470,Bryan,Low,No
+3471,Pharr,Medium,No
+3472,West Sacramento,High,No
+3473,Yonkers,NA,Yes
+3474,Jupiter,Low,No
+3475,Fort Myers,Medium,No
+3476,Somerville,Medium,No
+3477,Vacaville,Low,Yes
+3478,Citrus Heights,High,No
+3479,Bryan,High,No
+3480,Fort Myers,Medium,No
+3481,Overland Park,Medium,No
+3482,Hilo,Low,No
+3483,Chandler,Medium,No
+3484,Citrus Heights,High,No
+3485,Sioux City,Medium,No
+3486,Concord,Low,No
+3487,Battle Creek,Low,No
+3488,Elizabeth,Medium,No
+3489,Grand Island,Medium,No
+3490,Topeka,Medium,Yes
+3491,Austin,High,No
+3492,Hattiesburg,Low,No
+3493,Elizabeth,Low,No
+3494,Carson,High,No
+3495,Bryan,NA,Yes
+3496,Blacksburg,Medium,Yes
+3497,Cary,Medium,No
+3498,NA,High,No
+3499,Pittsburgh,High,No
+3500,Hattiesburg,Low,Yes
+3501,Fort Myers,Low,No
+3502,Edinburg,High,No
+3503,Ellicott City,Medium,No
+3504,Vacaville,Low,No
+3505,Hattiesburg,Low,No
+3506,Chandler,High,No
+3507,Pearland,Low,No
+3508,Watsonville,NA,Yes
+3509,Edinburg,Low,No
+3510,Mesa,Low,No
+3511,Vacaville,Low,No
+3512,Bolingbrook,Low,No
+3513,Fond du Lac,High,No
+3514,Lynwood,High,No
+3515,Pittsburgh,Low,Yes
+3516,Pocatello,Low,Yes
+3517,Fort Smith,High,No
+3518,Shelby,High,No
+3519,Haverhill,Low,Yes
+3520,NA,Medium,No
+3521,Kendall,Medium,No
+3522,Walnut Creek,Low,Yes
+3523,Hoboken,High,No
+3524,Pasco,Low,Yes
+3525,DeKalb,High,No
+3526,Bloomfield,High,No
+3527,Newport News,Low,Yes
+3528,Pleasanton,Low,No
+3529,Salt Lake City,Low,No
+3530,Fort Myers,Medium,No
+3531,West Sacramento,Medium,No
+3532,Citrus Heights,Low,No
+3533,Austin,Medium,No
+3534,Concord,High,No
+3535,Woodland,Low,Yes
+3536,Indio,High,No
+3537,Pleasanton,Low,No
+3538,Westminster,Low,No
+3539,Edinburg,Low,No
+3540,Fond du Lac,Low,No
+3541,Hartford,NA,No
+3542,Vacaville,High,No
+3543,Rockford,Medium,No
+3544,Grand Island,High,No
+3545,Racine,High,No
+3546,Montgomery Village,High,No
+3547,Minneapolis,High,No
+3548,Passaic,NA,Yes
+3549,Hilo,Medium,No
+3550,Florence-Graham,Low,Yes
+3551,Concord,Low,Yes
+3552,Wilkes-Barre,Low,No
+3553,Toledo,High,No
+3554,North Bethesda,High,No
+3555,Dothan,High,No
+3556,Overland Park,Medium,No
+3557,Wilson,High,No
+3558,Detroit,High,No
+3559,Florence-Graham,High,No
+3560,Vacaville,Low,No
+3561,Indio,Medium,No
+3562,Bellflower,Medium,No
+3563,Boynton Beach,Medium,No
+3564,Bellflower,High,No
+3565,Boynton Beach,NA,Yes
+3566,Pearland,Medium,Yes
+3567,Westminster,Low,No
+3568,Hilo,Low,Yes
+3569,Minneapolis,Low,Yes
+3570,Carson,Medium,No
+3571,Bellflower,Low,Yes
+3572,Apple Valley,Medium,No
+3573,Jupiter,High,No
+3574,Florence-Graham,Low,Yes
+3575,Indio,Medium,No
+3576,Minneapolis,High,No
+3577,Jupiter,High,No
+3578,Mesa,Low,No
+3579,Pharr,High,No
+3580,Pleasanton,High,No
+3581,Toledo,Medium,No
+3582,Pasco,Medium,No
+3583,Grand Island,Medium,No
+3584,Ames,Low,No
+3585,Wilkes-Barre,High,No
+3586,Findlay,Medium,No
+3587,Chico,Medium,No
+3588,Broken Arrow,Low,No
+3589,Yonkers,High,No
+3590,Overland Park,High,No
+3591,Hamilton,High,No
+3592,Overland Park,Medium,No
+3593,Chandler,High,No
+3594,Bolingbrook,Low,No
+3595,Fort Worth,High,No
+3596,Edinburg,Medium,No
+3597,Detroit,Low,Yes
+3598,Mesa,Medium,No
+3599,West Orange,Low,No
+3600,Hoboken,Low,No
+3601,Wilson,Low,Yes
+3602,Bryan,Medium,No
+3603,Nashua,Medium,No
+3604,Fort Myers,Medium,No
+3605,DeKalb,High,No
+3606,Minnetonka,Low,Yes
+3607,Cary,High,No
+3608,Hattiesburg,High,No
+3609,West Orange,High,No
+3610,Hoboken,High,Yes
+3611,Gilbert,Low,No
+3612,Ames,NA,Yes
+3613,Beaverton,Medium,Yes
+3614,Wilson,NA,Yes
+3615,Pocatello,High,No
+3616,Cherry Hill,Medium,No
+3617,Toledo,Low,Yes
+3618,Austin,NA,No
+3619,Dothan,Low,Yes
+3620,Nashua,Low,No
+3621,Boynton Beach,Medium,No
+3622,Fort Myers,High,No
+3623,Hemet,High,No
+3624,Beaverton,Medium,No
+3625,Nashua,High,No
+3626,Ames,High,No
+3627,Pleasanton,High,No
+3628,Beaverton,Low,Yes
+3629,NA,Low,Yes
+3630,Woodland,Low,Yes
+3631,Glendora,Medium,No
+3632,Athens-Clarke,Low,Yes
+3633,Austin,Low,Yes
+3634,Waterbury,High,No
+3635,Bolingbrook,Medium,No
+3636,Toledo,Medium,No
+3637,Pasco,High,No
+3638,Franconia,Low,Yes
+3639,Sioux City,Medium,No
+3640,Citrus Heights,NA,Yes
+3641,Findlay,High,No
+3642,San Clemente,Low,No
+3643,Hartford,Low,No
+3644,Chico,High,No
+3645,Chandler,High,No
+3646,Vacaville,Medium,No
+3647,Kalamazoo,Medium,No
+3648,Watsonville,High,No
+3649,Westland,High,No
+3650,Ames,Low,Yes
+3651,Ames,Medium,No
+3652,Garden Grove,High,No
+3653,Cary,High,No
+3654,Fort Worth,NA,No
+3655,Gilbert,High,No
+3656,San Buenaventura,NA,No
+3657,Florence-Graham,High,No
+3658,Salt Lake City,Medium,Yes
+3659,San Clemente,High,Yes
+3660,Montgomery Village,Low,Yes
+3661,Florence-Graham,Low,No
+3662,San Clemente,Medium,No
+3663,Detroit,High,No
+3664,Walnut Creek,High,No
+3665,Woodland,Medium,No
+3666,Hamilton,Medium,Yes
+3667,Lynwood,High,No
+3668,Overland Park,Low,No
+3669,Edinburg,Low,No
+3670,Fort Wayne,High,No
+3671,Chico,High,No
+3672,Fort Smith,High,No
+3673,Salt Lake City,Medium,No
+3674,Kalamazoo,NA,Yes
+3675,Bellflower,High,Yes
+3676,Gilbert,High,No
+3677,Bellflower,Medium,No
+3678,Gilbert,High,No
+3679,Woodland,High,No
+3680,Mesa,Medium,No
+3681,Fort Myers,High,No
+3682,Findlay,Low,No
+3683,Kalamazoo,Low,No
+3684,Joliet,Low,No
+3685,Edinburg,High,Yes
+3686,Fort Wayne,Low,No
+3687,NA,Medium,No
+3688,Hamilton,Medium,No
+3689,Bellflower,High,No
+3690,Vacaville,Medium,No
+3691,Hilo,Low,Yes
+3692,Battle Creek,Medium,No
+3693,Kalamazoo,Medium,No
+3694,Apple Valley,Low,No
+3695,Shelby,Medium,No
+3696,North Bethesda,High,No
+3697,Racine,Low,Yes
+3698,Passaic,Medium,No
+3699,Wheaton-Glenmont,Low,Yes
+3700,Bridgewater,NA,Yes
+3701,Newport News,Medium,No
+3702,Elizabeth,High,No
+3703,NA,Low,No
+3704,Waterbury,Low,Yes
+3705,Bryan,Medium,No
+3706,Passaic,Medium,No
+3707,Broken Arrow,Medium,No
+3708,Citrus Heights,Medium,No
+3709,Sioux City,Medium,No
+3710,NA,High,No
+3711,San Clemente,Medium,No
+3712,Wilson,Medium,No
+3713,Beaverton,High,No
+3714,Detroit,Medium,No
+3715,Joliet,Medium,No
+3716,West Orange,Medium,No
+3717,Sioux City,High,No
+3718,Westminster,Medium,No
+3719,Minneapolis,Medium,No
+3720,Vacaville,High,No
+3721,Blacksburg,High,No
+3722,Sarasota,Medium,No
+3723,NA,High,No
+3724,NA,Low,No
+3725,Toledo,NA,No
+3726,Fort Wayne,Low,No
+3727,Gilbert,High,No
+3728,Cherry Hill,Medium,No
+3729,Detroit,Medium,No
+3730,Pharr,Low,Yes
+3731,Kalamazoo,Medium,No
+3732,Ellicott City,Low,No
+3733,Glendora,High,No
+3734,Somerville,Low,No
+3735,Boynton Beach,High,No
+3736,Haverhill,High,No
+3737,Glendora,High,No
+3738,Walnut Creek,Medium,No
+3739,Minnetonka,Low,No
+3740,Hamilton,Low,No
+3741,Wheaton-Glenmont,Medium,No
+3742,Charleston,High,No
+3743,West Orange,High,No
+3744,Boynton Beach,Low,Yes
+3745,Bolingbrook,Medium,No
+3746,Beaverton,Medium,No
+3747,Sarasota,NA,Yes
+3748,Vacaville,High,No
+3749,Indio,Low,Yes
+3750,Boynton Beach,Medium,No
+3751,Pocatello,High,No
+3752,Pleasanton,NA,Yes
+3753,Pittsburgh,High,No
+3754,Bryan,NA,No
+3755,San Buenaventura,Low,No
+3756,Bellflower,High,No
+3757,Fort Worth,Low,No
+3758,Grand Island,Medium,No
+3759,Lynwood,Medium,No
+3760,Ellicott City,Low,No
+3761,Westland,Low,No
+3762,North Bethesda,High,No
+3763,Alameda,High,No
+3764,Wilson,High,No
+3765,Pittsburgh,High,No
+3766,Blacksburg,High,No
+3767,NA,Medium,No
+3768,Pasco,Medium,No
+3769,Fort Worth,High,No
+3770,Bloomfield,Low,No
+3771,Pharr,Low,No
+3772,Ames,High,No
+3773,Kalamazoo,High,No
+3774,Hamilton,High,No
+3775,Fort Worth,Medium,No
+3776,Minneapolis,Medium,No
+3777,San Buenaventura,Low,No
+3778,Overland Park,NA,Yes
+3779,Hamilton,Low,No
+3780,Saint Louis Park,High,No
+3781,Chandler,Medium,Yes
+3782,Indio,Medium,Yes
+3783,Shelby,Low,No
+3784,Mansfield,Medium,No
+3785,Beaverton,High,No
+3786,Garden Grove,Low,No
+3787,NA,Low,Yes
+3788,Bellflower,Medium,No
+3789,Kalamazoo,Low,Yes
+3790,Findlay,NA,Yes
+3791,Bryan,Medium,No
+3792,Montgomery Village,Low,No
+3793,Shelby,Medium,No
+3794,Mesa,Low,No
+3795,NA,High,No
+3796,Newport News,High,No
+3797,Wilkes-Barre,High,No
+3798,Nashua,Medium,No
+3799,Hoboken,High,No
+3800,Cary,High,No
+3801,Cary,High,No
+3802,Grand Island,NA,No
+3803,Bolingbrook,High,No
+3804,DeKalb,High,No
+3805,Haverhill,High,No
+3806,NA,High,No
+3807,Wilkes-Barre,High,No
+3808,Lynwood,High,No
+3809,Watsonville,High,No
+3810,Detroit,Medium,No
+3811,Elizabeth,High,No
+3812,Mesa,High,No
+3813,Topeka,NA,Yes
+3814,Garden Grove,Low,No
+3815,Salt Lake City,High,No
+3816,Lynwood,Low,No
+3817,Hoboken,High,No
+3818,Grand Island,High,No
+3819,Turlock,Low,No
+3820,Nashua,High,No
+3821,Yorba Linda,Low,Yes
+3822,Haverhill,Medium,No
+3823,Alameda,Medium,No
+3824,Kendall,NA,Yes
+3825,Glendora,High,No
+3826,Alameda,Medium,No
+3827,Saint Louis Park,High,No
+3828,NA,Low,No
+3829,Hamilton,Medium,No
+3830,Saint Louis Park,High,No
+3831,Vacaville,High,Yes
+3832,Kalamazoo,Low,No
+3833,Wheaton-Glenmont,Medium,No
+3834,Detroit,Medium,Yes
+3835,Hoboken,Medium,No
+3836,Ames,High,No
+3837,Cherry Hill,Low,Yes
+3838,Somerville,High,No
+3839,Mansfield,High,No
+3840,Ames,High,No
+3841,NA,NA,Yes
+3842,DeKalb,Medium,No
+3843,Topeka,Medium,No
+3844,Bridgewater,Medium,No
+3845,Carson,Medium,No
+3846,Mansfield,Low,No
+3847,Wilson,Low,No
+3848,Hoboken,High,No
+3849,Hemet,Medium,No
+3850,Woodland,Medium,No
+3851,Topeka,Low,Yes
+3852,DeKalb,Low,No
+3853,Broken Arrow,Medium,No
+3854,Pittsburgh,High,No
+3855,Cary,NA,No
+3856,Overland Park,Medium,No
+3857,Westminster,Low,No
+3858,Beaverton,Low,No
+3859,Hoboken,Low,No
+3860,Dothan,Low,No
+3861,Saint Louis Park,High,No
+3862,Watsonville,Low,No
+3863,Joliet,High,No
+3864,Grand Island,Medium,No
+3865,Battle Creek,Medium,No
+3866,Chico,High,No
+3867,Joliet,Medium,No
+3868,Wilkes-Barre,Low,No
+3869,Indio,Low,No
+3870,Wilkes-Barre,High,No
+3871,Pasco,Medium,No
+3872,Broken Arrow,Medium,No
+3873,Apple Valley,High,No
+3874,Minnetonka,High,No
+3875,NA,High,No
+3876,Topeka,High,No
+3877,Wilson,Low,Yes
+3878,Newport News,Low,Yes
+3879,Minnetonka,Medium,No
+3880,Yorba Linda,Medium,No
+3881,Bolingbrook,Low,No
+3882,Rockford,Medium,No
+3883,San Clemente,High,No
+3884,NA,Medium,No
+3885,San Buenaventura,High,Yes
+3886,Joliet,Medium,No
+3887,Chandler,Medium,No
+3888,NA,Low,No
+3889,Florence-Graham,Low,No
+3890,Dothan,Low,Yes
+3891,Findlay,Medium,Yes
+3892,Overland Park,Medium,No
+3893,Sioux City,Medium,No
+3894,Ames,High,No
+3895,Sioux City,High,No
+3896,Wheaton-Glenmont,High,No
+3897,Alameda,Low,No
+3898,Pleasanton,NA,No
+3899,Crystal Lake,Medium,No
+3900,NA,Medium,No
+3901,Crystal Lake,Medium,No
+3902,Pittsburgh,High,No
+3903,Cherry Hill,High,No
+3904,Fort Wayne,Low,No
+3905,NA,Medium,No
+3906,Dothan,High,No
+3907,Concord,Low,No
+3908,Jupiter,Low,Yes
+3909,Haverhill,Medium,No
+3910,Crystal Lake,Low,Yes
+3911,Sarasota,Medium,No
+3912,Racine,High,No
+3913,Bryan,Low,No
+3914,NA,High,No
+3915,Franconia,High,No
+3916,Glendora,Medium,No
+3917,Salt Lake City,Medium,Yes
+3918,Mansfield,Medium,No
+3919,Westland,NA,No
+3920,Charleston,Medium,No
+3921,Sioux City,Medium,No
+3922,Bloomfield,Low,No
+3923,Topeka,NA,No
+3924,Pittsburgh,Medium,Yes
+3925,Montgomery Village,High,No
+3926,Shelby,High,No
+3927,Fort Worth,High,No
+3928,Peoria,Medium,No
+3929,Newport News,Medium,No
+3930,Franconia,Medium,No
+3931,Findlay,Medium,No
+3932,Austin,Medium,No
+3933,Newport News,Medium,No
+3934,Broken Arrow,High,No
+3935,Hemet,Medium,No
+3936,San Clemente,High,No
+3937,Cherry Hill,High,No
+3938,Hartford,Low,Yes
+3939,Passaic,Medium,No
+3940,Hilo,Medium,No
+3941,Yonkers,Low,No
+3942,Battle Creek,Low,Yes
+3943,Lynwood,Low,No
+3944,Apple Valley,High,No
+3945,Fort Myers,Medium,Yes
+3946,Newport News,High,No
+3947,Ellicott City,Low,No
+3948,Pocatello,Low,Yes
+3949,Mesa,High,No
+3950,Detroit,Low,Yes
+3951,Hamilton,High,No
+3952,West Sacramento,Medium,No
+3953,Fond du Lac,Medium,No
+3954,Chandler,Medium,No
+3955,Pittsburgh,Medium,No
+3956,Grand Island,High,No
+3957,Waterbury,Low,No
+3958,Hamilton,Medium,No
+3959,Pharr,High,No
+3960,Westland,NA,No
+3961,San Buenaventura,Low,No
+3962,Chandler,High,No
+3963,NA,High,No
+3964,Glendora,High,No
+3965,Minnetonka,Medium,No
+3966,Ellicott City,Low,No
+3967,Pocatello,Medium,Yes
+3968,Westminster,Low,No
+3969,Rockford,Low,Yes
+3970,Cherry Hill,Low,Yes
+3971,Mansfield,High,No
+3972,Topeka,NA,Yes
+3973,Jupiter,High,No
+3974,Chico,Low,No
+3975,Bryan,Medium,No
+3976,Woodland,NA,Yes
+3977,Yorba Linda,Medium,No
+3978,Gilbert,Low,No
+3979,Pittsburgh,Low,Yes
+3980,Watsonville,High,No
+3981,Sioux City,Medium,Yes
+3982,North Bethesda,Medium,No
+3983,Shelby,Medium,No
+3984,Crystal Lake,Low,Yes
+3985,Montgomery Village,Low,Yes
+3986,Passaic,Medium,Yes
+3987,Fort Wayne,Medium,No
+3988,Pleasanton,Medium,No
+3989,Jupiter,Medium,No
+3990,Dothan,High,No
+3991,Rockford,High,No
+3992,Pocatello,High,No
+3993,Hoboken,Low,Yes
+3994,Fond du Lac,High,No
+3995,NA,NA,Yes
+3996,Florence-Graham,Low,No
+3997,Minnetonka,Medium,No
+3998,Saint Louis Park,Medium,No
+3999,Chandler,Low,No
+4000,Alameda,Medium,No
+4001,NA,Low,No
+4002,Grand Island,Medium,No
+4003,Peoria,Low,No
+4004,DeKalb,Medium,No
+4005,Peoria,Medium,No
+4006,Overland Park,Medium,No
+4007,Austin,Medium,No
+4008,West Sacramento,High,No
+4009,Cary,Low,No
+4010,Ames,Low,Yes
+4011,Bolingbrook,Low,No
+4012,Rockford,Medium,No
+4013,Garden Grove,High,No
+4014,NA,High,No
+4015,Saint Louis Park,High,No
+4016,Kalamazoo,High,No
+4017,Fort Worth,Low,No
+4018,Fort Smith,High,No
+4019,Eau Claire,Medium,No
+4020,Pearland,Low,No
+4021,Pittsburgh,High,No
+4022,Woodland,Low,Yes
+4023,Sioux City,NA,No
+4024,Nashua,Low,Yes
+4025,NA,Medium,No
+4026,Ellicott City,Medium,No
+4027,Kendall,Low,Yes
+4028,Joliet,Medium,No
+4029,San Clemente,Medium,No
+4030,NA,Low,Yes
+4031,Hilo,Medium,No
+4032,Chandler,Low,No
+4033,Alameda,Low,No
+4034,West Sacramento,Medium,No
+4035,Elizabeth,Medium,No
+4036,Shelby,Low,Yes
+4037,Bryan,High,No
+4038,NA,NA,No
+4039,Wilson,Low,Yes
+4040,Fort Worth,Medium,No
+4041,Walnut Creek,Low,No
+4042,Mesa,High,No
+4043,Pleasanton,High,No
+4044,San Clemente,High,No
+4045,Pharr,Low,No
+4046,San Clemente,High,No
+4047,Citrus Heights,Low,No
+4048,Wheaton-Glenmont,Low,No
+4049,Bellflower,Medium,No
+4050,NA,Medium,No
+4051,Fort Wayne,Low,No
+4052,Bridgewater,Medium,No
+4053,Pittsburgh,High,No
+4054,Somerville,Medium,No
+4055,Hoboken,Medium,No
+4056,Hoboken,Medium,No
+4057,Woodland,High,No
+4058,Minneapolis,Low,No
+4059,Westminster,Medium,No
+4060,Hilo,Medium,No
+4061,DeKalb,High,No
+4062,Toledo,Low,No
+4063,Wilkes-Barre,Low,Yes
+4064,Gilbert,Low,No
+4065,Concord,Medium,No
+4066,Wheaton-Glenmont,Medium,No
+4067,Blacksburg,High,No
+4068,Hamilton,High,No
+4069,Chandler,Medium,No
+4070,Salt Lake City,High,No
+4071,Athens-Clarke,High,No
+4072,Indio,Low,No
+4073,Peoria,Medium,No
+4074,Blacksburg,Medium,Yes
+4075,Toledo,Medium,No
+4076,Westminster,High,No
+4077,Crystal Lake,Medium,No
+4078,Apple Valley,High,No
+4079,Wilkes-Barre,Low,No
+4080,Dothan,Medium,No
+4081,Eau Claire,Low,No
+4082,Sioux City,High,No
+4083,Wheaton-Glenmont,Medium,No
+4084,Racine,Medium,No
+4085,Bellflower,Low,No
+4086,West Orange,Low,No
+4087,Passaic,Low,Yes
+4088,Pittsburgh,Low,Yes
+4089,Minnetonka,Low,No
+4090,Boynton Beach,High,No
+4091,Watsonville,High,Yes
+4092,Peoria,Low,No
+4093,Boynton Beach,High,No
+4094,Detroit,Low,No
+4095,Westminster,Medium,No
+4096,Shelby,High,No
+4097,Gilbert,Medium,No
+4098,Topeka,High,No
+4099,Broken Arrow,Low,No
+4100,Blacksburg,Medium,No
+4101,Franconia,Low,No
+4102,Hemet,High,No
+4103,NA,High,No
+4104,Vacaville,High,No
+4105,Beaverton,Low,No
+4106,NA,Medium,No
+4107,Grand Island,High,No
+4108,Hattiesburg,Low,Yes
+4109,Walnut Creek,Medium,No
+4110,Citrus Heights,Low,Yes
+4111,Passaic,Medium,No
+4112,Shelby,Low,No
+4113,Fort Smith,Medium,No
+4114,Fort Myers,Medium,No
+4115,Edinburg,Medium,No
+4116,Wilson,High,No
+4117,Wheaton-Glenmont,Low,No
+4118,Woodland,High,Yes
+4119,Florence-Graham,High,No
+4120,Hamilton,Medium,No
+4121,West Orange,Medium,No
+4122,Grand Island,Low,Yes
+4123,Florence-Graham,High,No
+4124,Eau Claire,Low,No
+4125,Chandler,Medium,No
+4126,Vacaville,High,No
+4127,Cherry Hill,High,No
+4128,Racine,Medium,No
+4129,Charleston,Low,No
+4130,Kalamazoo,Medium,No
+4131,Vacaville,Medium,No
+4132,Westminster,High,Yes
+4133,Saint Louis Park,Low,Yes
+4134,Florence-Graham,High,Yes
+4135,West Orange,Medium,No
+4136,Toledo,High,No
+4137,Montgomery Village,Medium,No
+4138,Glendora,Medium,No
+4139,Lynwood,Low,Yes
+4140,Sioux City,High,No
+4141,Joliet,High,No
+4142,Athens-Clarke,Low,No
+4143,North Bethesda,High,No
+4144,Hattiesburg,NA,No
+4145,Vacaville,Medium,No
+4146,Austin,NA,No
+4147,Minneapolis,Low,No
+4148,Grand Island,High,Yes
+4149,Battle Creek,Medium,No
+4150,Wilson,Medium,No
+4151,Fond du Lac,Low,Yes
+4152,Pasco,Medium,No
+4153,Apple Valley,High,No
+4154,Newport News,Medium,No
+4155,Vacaville,Medium,No
+4156,Hoboken,Medium,No
+4157,Sarasota,High,No
+4158,Pocatello,High,No
+4159,Hemet,Low,No
+4160,Hamilton,Low,No
+4161,Edinburg,Low,No
+4162,NA,Low,Yes
+4163,Somerville,High,No
+4164,Fort Wayne,Low,No
+4165,Woodland,High,No
+4166,Fort Smith,High,No
+4167,Newport News,High,No
+4168,Westminster,High,No
+4169,Gilbert,High,No
+4170,Austin,High,No
+4171,Pittsburgh,Low,No
+4172,Chandler,High,Yes
+4173,Citrus Heights,High,No
+4174,Kalamazoo,Low,No
+4175,Wilson,Medium,No
+4176,Joliet,Low,No
+4177,Newport News,Low,No
+4178,Nashua,Medium,No
+4179,DeKalb,High,No
+4180,Athens-Clarke,Low,Yes
+4181,Blacksburg,High,No
+4182,Woodland,High,No
+4183,Chico,High,No
+4184,Kendall,Low,No
+4185,Joliet,Low,No
+4186,Toledo,NA,Yes
+4187,Minneapolis,Low,No
+4188,Citrus Heights,High,No
+4189,San Buenaventura,Medium,No
+4190,Blacksburg,High,No
+4191,Detroit,High,No
+4192,Minneapolis,Medium,No
+4193,Apple Valley,Medium,No
+4194,Minneapolis,Medium,No
+4195,Salt Lake City,Low,No
+4196,Charleston,Medium,No
+4197,Broken Arrow,Low,No
+4198,NA,Medium,No
+4199,Joliet,High,No
+4200,Citrus Heights,High,No
+4201,Minneapolis,Medium,No
+4202,Hartford,Low,No
+4203,Concord,High,No
+4204,Shelby,Medium,Yes
+4205,Lynwood,Medium,No
+4206,Blacksburg,Low,No
+4207,Kendall,Low,No
+4208,Fort Worth,Medium,No
+4209,Wilson,Low,Yes
+4210,Fond du Lac,Low,No
+4211,Edinburg,Medium,No
+4212,Montgomery Village,High,No
+4213,Fort Smith,Medium,Yes
+4214,Minnetonka,Low,Yes
+4215,Austin,High,No
+4216,Carson,High,No
+4217,Grand Island,High,No
+4218,Peoria,Low,Yes
+4219,Wheaton-Glenmont,Low,No
+4220,North Bethesda,Medium,No
+4221,Hilo,High,No
+4222,Glendora,Medium,No
+4223,Jupiter,NA,No
+4224,Bellflower,NA,No
+4225,Racine,High,No
+4226,Battle Creek,Low,Yes
+4227,Boynton Beach,Medium,No
+4228,Haverhill,Low,No
+4229,Nashua,Medium,No
+4230,Hamilton,Medium,No
+4231,Saint Louis Park,Medium,No
+4232,Newport News,High,No
+4233,Wilson,Low,No
+4234,Bridgewater,Low,Yes
+4235,Yonkers,Medium,No
+4236,Pharr,Medium,No
+4237,Concord,Low,No
+4238,Glendora,High,No
+4239,Pittsburgh,High,No
+4240,Edinburg,High,No
+4241,West Sacramento,High,No
+4242,Fort Wayne,Low,No
+4243,Wilkes-Barre,NA,Yes
+4244,Apple Valley,Medium,No
+4245,Bloomfield,Medium,No
+4246,Ames,Low,No
+4247,NA,High,No
+4248,Fort Myers,Medium,No
+4249,Fort Wayne,Low,No
+4250,Charleston,Low,No
+4251,DeKalb,NA,No
+4252,Yorba Linda,Low,No
+4253,Gilbert,High,No
+4254,Wilson,Medium,No
+4255,Pleasanton,High,No
+4256,Westland,Medium,No
+4257,NA,High,No
+4258,Findlay,Medium,No
+4259,Edinburg,Medium,No
+4260,Kalamazoo,High,No
+4261,Joliet,Low,No
+4262,Florence-Graham,Low,No
+4263,Indio,High,No
+4264,Pearland,High,No
+4265,NA,Low,Yes
+4266,Mesa,High,No
+4267,Lynwood,High,No
+4268,Fort Myers,NA,No
+4269,Pharr,High,No
+4270,Minneapolis,Low,No
+4271,DeKalb,Low,No
+4272,Kendall,High,No
+4273,Glendora,High,Yes
+4274,Peoria,High,No
+4275,Pharr,High,No
+4276,Bloomfield,High,No
+4277,Waterbury,High,No
+4278,Joliet,Medium,No
+4279,Turlock,High,No
+4280,Fort Worth,Low,No
+4281,Grand Island,Low,No
+4282,NA,Medium,No
+4283,Pasco,High,No
+4284,Racine,Medium,No
+4285,Pearland,High,No
+4286,Hemet,High,No
+4287,NA,Low,No
+4288,San Clemente,High,No
+4289,Hartford,Low,No
+4290,Hoboken,Low,No
+4291,Gilbert,High,No
+4292,Joliet,Low,No
+4293,Carson,Medium,No
+4294,Florence-Graham,Low,No
+4295,Sioux City,Medium,No
+4296,Yonkers,Medium,No
+4297,Apple Valley,High,No
+4298,Chandler,High,No
+4299,Fort Wayne,High,No
+4300,NA,Medium,No
+4301,Findlay,High,No
+4302,Bryan,High,No
+4303,Dothan,Medium,No
+4304,Bellflower,High,No
+4305,Mansfield,Medium,No
+4306,Westland,High,No
+4307,Florence-Graham,Medium,No
+4308,Hoboken,High,No
+4309,Montgomery Village,Low,No
+4310,Franconia,Medium,Yes
+4311,Carson,Medium,No
+4312,Peoria,High,No
+4313,Newport News,High,No
+4314,Newport News,Medium,Yes
+4315,DeKalb,High,No
+4316,North Bethesda,High,No
+4317,Bridgewater,High,No
+4318,Peoria,High,No
+4319,Bolingbrook,High,No
+4320,NA,High,No
+4321,Detroit,High,No
+4322,Pasco,Medium,No
+4323,Grand Island,High,No
+4324,Minnetonka,Medium,No
+4325,Mesa,Medium,Yes
+4326,Edinburg,High,No
+4327,West Sacramento,Low,No
+4328,Gilbert,Medium,No
+4329,Indio,High,No
+4330,Ames,Low,Yes
+4331,Gilbert,Medium,No
+4332,Pleasanton,High,No
+4333,Apple Valley,Medium,No
+4334,Joliet,Medium,No
+4335,Beaverton,High,No
+4336,Grand Island,Low,Yes
+4337,Eau Claire,Medium,No
+4338,West Sacramento,Low,No
+4339,Hartford,Low,No
+4340,Pearland,High,No
+4341,Bryan,Medium,No
+4342,Topeka,NA,No
+4343,Detroit,Low,No
+4344,NA,Low,No
+4345,Franconia,Low,No
+4346,Franconia,Medium,No
+4347,Edinburg,High,No
+4348,Fond du Lac,Low,Yes
+4349,Newport News,High,No
+4350,Franconia,Low,No
+4351,Beaverton,High,No
+4352,Hartford,NA,No
+4353,Gilbert,Medium,No
+4354,Topeka,High,No
+4355,Watsonville,High,No
+4356,Hamilton,High,No
+4357,Passaic,High,No
+4358,Minnetonka,Medium,Yes
+4359,Pocatello,High,No
+4360,Wilkes-Barre,High,No
+4361,Westland,High,No
+4362,Beaverton,NA,No
+4363,North Bethesda,High,No
+4364,Battle Creek,NA,No
+4365,Saint Louis Park,High,No
+4366,Citrus Heights,Medium,No
+4367,Kendall,Medium,No
+4368,Wilkes-Barre,NA,No
+4369,DeKalb,Medium,Yes
+4370,Gilbert,High,No
+4371,Indio,Medium,No
+4372,Gilbert,High,No
+4373,Florence-Graham,High,No
+4374,Yorba Linda,High,No
+4375,North Bethesda,Medium,No
+4376,Hattiesburg,High,No
+4377,Bridgewater,High,No
+4378,Detroit,High,No
+4379,Racine,NA,Yes
+4380,Minnetonka,Low,No
+4381,Gilbert,High,No
+4382,Elizabeth,High,No
+4383,Garden Grove,Medium,No
+4384,Bellflower,Medium,No
+4385,Saint Louis Park,Low,No
+4386,Kendall,High,No
+4387,Kalamazoo,Medium,No
+4388,Chico,Medium,No
+4389,NA,Low,No
+4390,Shelby,Medium,No
+4391,Alameda,Medium,No
+4392,Indio,Medium,No
+4393,Athens-Clarke,Medium,No
+4394,Newport News,High,No
+4395,Vacaville,NA,Yes
+4396,NA,Low,No
+4397,Battle Creek,Medium,No
+4398,Wilkes-Barre,High,No
+4399,Alameda,NA,No
+4400,DeKalb,High,No
+4401,Minneapolis,NA,No
+4402,Alameda,Low,Yes
+4403,Broken Arrow,Low,No
+4404,Kendall,NA,Yes
+4405,Bellflower,Medium,No
+4406,Alameda,Medium,No
+4407,Blacksburg,Low,Yes
+4408,Bloomfield,Low,No
+4409,Wheaton-Glenmont,High,No
+4410,Boynton Beach,High,No
+4411,Edinburg,Low,No
+4412,Wheaton-Glenmont,Low,No
+4413,North Bethesda,Medium,No
+4414,Glendora,Medium,No
+4415,Joliet,Low,No
+4416,Pharr,High,No
+4417,Bolingbrook,Low,No
+4418,Wilkes-Barre,Low,No
+4419,Peoria,Medium,No
+4420,West Orange,Low,No
+4421,Apple Valley,Low,Yes
+4422,Salt Lake City,Medium,No
+4423,Pasco,High,No
+4424,Sioux City,High,No
+4425,Wilson,High,No
+4426,Bolingbrook,Medium,No
+4427,Cary,Medium,No
+4428,Bolingbrook,High,No
+4429,NA,High,No
+4430,Crystal Lake,High,No
+4431,Rockford,High,No
+4432,DeKalb,High,No
+4433,Pleasanton,NA,No
+4434,Haverhill,High,No
+4435,NA,Low,No
+4436,Franconia,Low,No
+4437,Vacaville,High,No
+4438,Elizabeth,Low,No
+4439,Fond du Lac,High,No
+4440,Fond du Lac,High,No
+4441,Kalamazoo,Medium,No
+4442,Bridgewater,High,No
+4443,Bridgewater,Low,No
+4444,Cherry Hill,Medium,No
+4445,Minnetonka,Low,No
+4446,Athens-Clarke,Low,No
+4447,DeKalb,NA,No
+4448,Saint Louis Park,Medium,No
+4449,Fort Myers,High,No
+4450,Racine,Medium,No
+4451,Austin,High,No
+4452,Boynton Beach,Low,No
+4453,Fort Wayne,Medium,No
+4454,Walnut Creek,Medium,No
+4455,Pasco,Low,Yes
+4456,Pearland,Low,No
+4457,Toledo,Medium,No
+4458,Pasco,Medium,No
+4459,Elizabeth,Medium,No
+4460,North Bethesda,High,No
+4461,Fort Smith,High,No
+4462,Pleasanton,Low,Yes
+4463,NA,NA,Yes
+4464,Pleasanton,Low,No
+4465,Detroit,NA,No
+4466,Pharr,Medium,Yes
+4467,Wilkes-Barre,Low,Yes
+4468,Kalamazoo,Low,No
+4469,Shelby,High,No
+4470,Concord,Medium,No
+4471,Sioux City,Low,No
+4472,Ellicott City,Low,No
+4473,Boynton Beach,High,No
+4474,Gilbert,Medium,No
+4475,Franconia,Medium,No
+4476,Fond du Lac,Low,Yes
+4477,Hilo,Medium,Yes
+4478,Franconia,High,No
+4479,Peoria,High,No
+4480,Gilbert,Medium,No
+4481,Topeka,Low,No
+4482,Chico,Low,Yes
+4483,Battle Creek,Low,No
+4484,Hilo,Medium,No
+4485,Fond du Lac,Low,No
+4486,Bloomfield,High,No
+4487,North Bethesda,High,No
+4488,Concord,High,No
+4489,Ellicott City,High,No
+4490,Ames,Medium,No
+4491,Fort Smith,Low,No
+4492,Fort Myers,High,No
+4493,Chandler,High,No
+4494,Hemet,High,No
+4495,Pharr,Medium,No
+4496,Joliet,Low,Yes
+4497,Yorba Linda,Low,No
+4498,Pharr,Low,No
+4499,Battle Creek,Low,No
+4500,Glendora,Low,Yes
+4501,Topeka,Low,No
+4502,Dothan,Low,No
+4503,Bloomfield,Low,Yes
+4504,Glendora,Medium,Yes
+4505,Watsonville,Medium,No
+4506,Glendora,High,No
+4507,Chandler,Low,Yes
+4508,Ellicott City,High,No
+4509,Alameda,Low,No
+4510,Ellicott City,Low,No
+4511,Chico,NA,Yes
+4512,Pearland,Low,No
+4513,Bridgewater,High,No
+4514,Hemet,High,No
+4515,Joliet,Low,Yes
+4516,Peoria,High,No
+4517,Carson,Medium,No
+4518,Pearland,Medium,No
+4519,Mansfield,High,No
+4520,Bellflower,High,No
+4521,Hattiesburg,Low,No
+4522,NA,Medium,No
+4523,Cherry Hill,Low,Yes
+4524,Passaic,Low,No
+4525,Minneapolis,Low,No
+4526,NA,Medium,No
+4527,Garden Grove,Medium,No
+4528,NA,Medium,No
+4529,Nashua,Medium,No
+4530,Cary,High,No
+4531,NA,Low,No
+4532,Ames,High,No
+4533,DeKalb,Medium,No
+4534,Ames,Low,No
+4535,Salt Lake City,Medium,No
+4536,Ames,High,No
+4537,Hoboken,High,No
+4538,Pittsburgh,Medium,No
+4539,Alameda,High,No
+4540,Hilo,High,No
+4541,Saint Louis Park,High,No
+4542,NA,Low,No
+4543,Hamilton,Low,Yes
+4544,Overland Park,Medium,No
+4545,Saint Louis Park,NA,No
+4546,Sarasota,High,No
+4547,West Orange,Low,Yes
+4548,Pearland,Medium,No
+4549,Pharr,Medium,No
+4550,Passaic,Low,No
+4551,Fort Wayne,NA,No
+4552,Yonkers,NA,No
+4553,Nashua,Low,No
+4554,San Clemente,High,No
+4555,Bloomfield,NA,Yes
+4556,Apple Valley,High,No
+4557,Pleasanton,High,No
+4558,Toledo,High,No
+4559,Fort Wayne,Medium,No
+4560,Toledo,Low,Yes
+4561,Somerville,Medium,No
+4562,Vacaville,Low,Yes
+4563,Pasco,High,No
+4564,Yorba Linda,Medium,No
+4565,Haverhill,Low,No
+4566,Rockford,High,No
+4567,Battle Creek,Low,No
+4568,Hoboken,Low,Yes
+4569,Saint Louis Park,NA,No
+4570,Sarasota,Medium,No
+4571,Garden Grove,High,No
+4572,Somerville,Low,Yes
+4573,Haverhill,Low,Yes
+4574,Fort Smith,High,No
+4575,Broken Arrow,High,No
+4576,Passaic,Medium,No
+4577,Pleasanton,Low,No
+4578,Boynton Beach,Low,No
+4579,Hartford,Low,Yes
+4580,Chandler,High,No
+4581,Cherry Hill,High,No
+4582,Newport News,Low,No
+4583,Carson,Medium,No
+4584,Bellflower,Medium,No
+4585,Glendora,Medium,No
+4586,Hoboken,Low,Yes
+4587,Joliet,Low,No
+4588,Nashua,High,No
+4589,Pleasanton,Medium,No
+4590,Westland,High,No
+4591,Haverhill,Low,No
+4592,Racine,NA,Yes
+4593,Crystal Lake,Medium,No
+4594,West Orange,High,No
+4595,Gilbert,Low,No
+4596,Jupiter,Medium,No
+4597,Kalamazoo,Low,No
+4598,Dothan,High,No
+4599,Jupiter,Medium,No
+4600,Hattiesburg,Medium,No
+4601,Rockford,Medium,No
+4602,Hilo,Low,No
+4603,Sarasota,High,No
+4604,Nashua,Low,No
+4605,Hemet,Low,No
+4606,Pittsburgh,Low,Yes
+4607,Bryan,High,No
+4608,Eau Claire,Medium,No
+4609,Blacksburg,High,No
+4610,San Clemente,Medium,No
+4611,Waterbury,High,No
+4612,Edinburg,Medium,Yes
+4613,Haverhill,Low,Yes
+4614,NA,NA,No
+4615,Charleston,Low,No
+4616,Ellicott City,Low,Yes
+4617,Westland,NA,Yes
+4618,Carson,Low,No
+4619,Broken Arrow,High,No
+4620,Peoria,High,No
+4621,Garden Grove,High,No
+4622,Passaic,High,No
+4623,West Sacramento,High,No
+4624,Peoria,High,No
+4625,Mesa,Low,No
+4626,Shelby,High,No
+4627,Garden Grove,Medium,No
+4628,Apple Valley,Medium,No
+4629,Franconia,Medium,No
+4630,Wheaton-Glenmont,Low,Yes
+4631,Yonkers,Medium,No
+4632,Minnetonka,High,No
+4633,Detroit,High,No
+4634,Hemet,High,No
+4635,Walnut Creek,Low,No
+4636,Kendall,Medium,Yes
+4637,Wilson,Low,No
+4638,Charleston,Medium,No
+4639,Watsonville,Low,No
+4640,Chandler,NA,Yes
+4641,Citrus Heights,High,No
+4642,Hattiesburg,High,No
+4643,Westland,Medium,No
+4644,North Bethesda,Medium,No
+4645,Rockford,Medium,No
+4646,Findlay,Low,No
+4647,Edinburg,High,No
+4648,Cary,Low,No
+4649,Apple Valley,High,No
+4650,Westland,Low,No
+4651,Walnut Creek,Low,Yes
+4652,Carson,Low,Yes
+4653,DeKalb,Low,No
+4654,Gilbert,Medium,No
+4655,Apple Valley,Low,Yes
+4656,Minnetonka,Medium,No
+4657,San Clemente,Low,Yes
+4658,Pittsburgh,Medium,No
+4659,Bridgewater,High,No
+4660,Vacaville,Low,No
+4661,Fort Wayne,Medium,No
+4662,Battle Creek,Low,No
+4663,Montgomery Village,Low,Yes
+4664,Pittsburgh,High,No
+4665,West Sacramento,High,No
+4666,NA,Low,No
+4667,Austin,High,No
+4668,NA,High,No
+4669,Pearland,Medium,No
+4670,Haverhill,Low,No
+4671,Mesa,Low,Yes
+4672,NA,High,No
+4673,Rockford,High,No
+4674,Fond du Lac,Low,No
+4675,Boynton Beach,Medium,No
+4676,Pasco,High,No
+4677,Joliet,Medium,No
+4678,Yorba Linda,High,No
+4679,Cherry Hill,High,No
+4680,Carson,High,No
+4681,Peoria,High,No
+4682,Findlay,NA,Yes
+4683,Grand Island,Medium,No
+4684,Apple Valley,Medium,No
+4685,San Buenaventura,Low,Yes
+4686,Ames,Low,No
+4687,Turlock,Low,No
+4688,Crystal Lake,High,No
+4689,Wilkes-Barre,Medium,No
+4690,Citrus Heights,High,No
+4691,Minnetonka,Medium,No
+4692,West Orange,High,No
+4693,Boynton Beach,Low,Yes
+4694,Yonkers,High,No
+4695,Rockford,Medium,No
+4696,Elizabeth,High,No
+4697,North Bethesda,Low,Yes
+4698,Pasco,High,No
+4699,Yorba Linda,Medium,No
+4700,Bloomfield,Low,No
+4701,Garden Grove,Low,Yes
+4702,Overland Park,Medium,No
+4703,Wilson,Low,No
+4704,Hattiesburg,High,No
+4705,Kalamazoo,Low,Yes
+4706,Pasco,Medium,No
+4707,Carson,High,No
+4708,San Clemente,Medium,No
+4709,Haverhill,High,No
+4710,Grand Island,High,No
+4711,Hamilton,Medium,No
+4712,Ames,Medium,Yes
+4713,Charleston,Medium,No
+4714,Overland Park,Medium,No
+4715,NA,Low,No
+4716,Peoria,Medium,No
+4717,Pearland,Medium,No
+4718,Dothan,High,No
+4719,Bellflower,Medium,No
+4720,Bellflower,NA,Yes
+4721,Ellicott City,NA,Yes
+4722,Boynton Beach,Medium,No
+4723,San Clemente,Medium,No
+4724,Chico,Low,No
+4725,Shelby,High,No
+4726,Hattiesburg,High,No
+4727,Glendora,Medium,No
+4728,Concord,Medium,No
+4729,Joliet,Medium,Yes
+4730,Garden Grove,Low,No
+4731,Apple Valley,Medium,No
+4732,NA,Medium,No
+4733,Westminster,High,No
+4734,Rockford,Medium,No
+4735,Turlock,High,No
+4736,Edinburg,Low,No
+4737,Minneapolis,Low,No
+4738,San Buenaventura,Low,No
+4739,Bryan,Low,No
+4740,Athens-Clarke,Low,Yes
+4741,North Bethesda,Low,Yes
+4742,Kalamazoo,Low,No
+4743,Hemet,Medium,No
+4744,Hamilton,High,No
+4745,Charleston,Low,No
+4746,Florence-Graham,High,No
+4747,Pittsburgh,Low,Yes
+4748,Wilson,Medium,No
+4749,Hamilton,Low,No
+4750,Chico,NA,No
+4751,Ellicott City,Medium,No
+4752,NA,Low,No
+4753,Fort Wayne,Low,No
+4754,Bellflower,Low,No
+4755,Topeka,Low,No
+4756,Edinburg,Medium,No
+4757,Wilkes-Barre,High,No
+4758,Sarasota,Medium,No
+4759,Hemet,High,No
+4760,Fort Wayne,Medium,No
+4761,Hilo,Medium,No
+4762,DeKalb,High,Yes
+4763,Fond du Lac,Medium,No
+4764,Pleasanton,High,No
+4765,West Sacramento,Low,No
+4766,Franconia,High,No
+4767,San Buenaventura,High,No
+4768,Wilkes-Barre,High,No
+4769,Hartford,Medium,No
+4770,NA,High,No
+4771,Nashua,High,No
+4772,Minnetonka,High,No
+4773,Gilbert,High,No
+4774,Hilo,Low,Yes
+4775,Glendora,Medium,Yes
+4776,Hattiesburg,High,No
+4777,Haverhill,Low,No
+4778,Newport News,Medium,No
+4779,Peoria,High,No
+4780,Elizabeth,Medium,No
+4781,Garden Grove,Low,No
+4782,Fort Myers,Low,No
+4783,Apple Valley,High,No
+4784,Montgomery Village,High,No
+4785,Bridgewater,Medium,No
+4786,Pasco,Low,No
+4787,Boynton Beach,Medium,No
+4788,Battle Creek,Low,No
+4789,Mesa,High,No
+4790,Fort Wayne,High,No
+4791,Chico,Low,No
+4792,Pearland,Low,No
+4793,Athens-Clarke,Low,No
+4794,Carson,Medium,No
+4795,Mesa,Low,No
+4796,Fort Wayne,High,Yes
+4797,NA,NA,No
+4798,Cary,Medium,No
+4799,Charleston,Medium,No
+4800,Bellflower,High,No
+4801,Peoria,Low,No
+4802,Fort Smith,Medium,No
+4803,San Buenaventura,High,No
+4804,Glendora,Low,No
+4805,Edinburg,Medium,Yes
+4806,Topeka,Medium,No
+4807,Racine,Low,Yes
+4808,Florence-Graham,High,No
+4809,Watsonville,NA,Yes
+4810,Ellicott City,High,No
+4811,Concord,High,No
+4812,Grand Island,NA,Yes
+4813,Fort Wayne,High,No
+4814,Nashua,High,No
+4815,Passaic,NA,Yes
+4816,Waterbury,NA,Yes
+4817,Mansfield,NA,No
+4818,Wheaton-Glenmont,Medium,Yes
+4819,Hattiesburg,Medium,No
+4820,NA,Medium,Yes
+4821,NA,Low,Yes
+4822,Shelby,Medium,No
+4823,Pittsburgh,Low,No
+4824,Citrus Heights,Low,Yes
+4825,Vacaville,Low,No
+4826,Waterbury,Medium,No
+4827,Citrus Heights,Low,Yes
+4828,Pleasanton,Medium,No
+4829,Hartford,Medium,No
+4830,Austin,High,No
+4831,Hoboken,Medium,No
+4832,Gilbert,Medium,No
+4833,Pasco,High,No
+4834,Pasco,High,No
+4835,Fort Wayne,High,No
+4836,Sioux City,High,No
+4837,Beaverton,Medium,No
+4838,Fort Wayne,Medium,No
+4839,Hamilton,Low,No
+4840,Mesa,High,No
+4841,Peoria,Medium,No
+4842,Pleasanton,Low,No
+4843,Chandler,Medium,No
+4844,Hemet,Medium,No
+4845,Blacksburg,Low,No
+4846,Watsonville,Medium,Yes
+4847,Newport News,High,No
+4848,Dothan,Medium,No
+4849,Grand Island,Medium,Yes
+4850,Crystal Lake,Low,No
+4851,Elizabeth,High,No
+4852,Boynton Beach,Low,No
+4853,North Bethesda,Low,No
+4854,North Bethesda,Low,No
+4855,Garden Grove,High,No
+4856,Bridgewater,Low,No
+4857,Hoboken,High,No
+4858,Fond du Lac,Medium,No
+4859,Overland Park,Medium,No
+4860,Wilson,High,No
+4861,Toledo,Low,Yes
+4862,Lynwood,Low,No
+4863,Saint Louis Park,High,No
+4864,Glendora,Medium,No
+4865,Montgomery Village,Medium,No
+4866,Ellicott City,Medium,No
+4867,Detroit,NA,Yes
+4868,Athens-Clarke,High,No
+4869,Hemet,NA,Yes
+4870,Gilbert,Low,No
+4871,Austin,Low,Yes
+4872,Cary,Medium,No
+4873,Apple Valley,Medium,No
+4874,Dothan,Medium,No
+4875,Westland,High,No
+4876,Findlay,High,No
+4877,Garden Grove,Low,No
+4878,Beaverton,Medium,No
+4879,Yonkers,Medium,No
+4880,Sioux City,Low,Yes
+4881,Kalamazoo,Low,Yes
+4882,Pasco,NA,No
+4883,Fond du Lac,Medium,No
+4884,Charleston,Medium,No
+4885,Kendall,High,No
+4886,Wilkes-Barre,High,No
+4887,Chandler,Low,Yes
+4888,NA,High,No
+4889,Charleston,Low,No
+4890,Topeka,Medium,No
+4891,Peoria,Low,Yes
+4892,Blacksburg,Low,No
+4893,Pharr,Medium,No
+4894,Mesa,High,No
+4895,Indio,Low,No
+4896,Sioux City,Low,Yes
+4897,Hartford,Low,No
+4898,Florence-Graham,Low,Yes
+4899,Fort Smith,Medium,No
+4900,Bolingbrook,Medium,No
+4901,Kalamazoo,Low,Yes
+4902,Grand Island,High,No
+4903,Saint Louis Park,High,No
+4904,Blacksburg,High,No
+4905,Franconia,Medium,No
+4906,Westminster,Medium,No
+4907,Crystal Lake,Medium,No
+4908,West Sacramento,Medium,No
+4909,Wilson,NA,No
+4910,Apple Valley,High,No
+4911,Bolingbrook,High,No
+4912,Haverhill,Medium,No
+4913,Rockford,Medium,No
+4914,Detroit,Low,No
+4915,Yorba Linda,Medium,No
+4916,Bolingbrook,NA,No
+4917,Wilkes-Barre,High,No
+4918,Dothan,Low,No
+4919,Bridgewater,Low,Yes
+4920,Grand Island,Low,No
+4921,Grand Island,Low,No
+4922,Mesa,Medium,No
+4923,Gilbert,Low,No
+4924,San Buenaventura,High,No
+4925,Pearland,Medium,No
+4926,Minneapolis,Low,No
+4927,Mansfield,Low,No
+4928,Cary,High,No
+4929,San Buenaventura,Medium,No
+4930,Austin,Medium,No
+4931,Franconia,High,No
+4932,Topeka,NA,No
+4933,Carson,High,No
+4934,Toledo,High,No
+4935,San Clemente,High,No
+4936,Boynton Beach,Medium,No
+4937,Chandler,High,No
+4938,Chandler,High,No
+4939,San Clemente,Low,No
+4940,Minnetonka,Low,No
+4941,Pocatello,Medium,No
+4942,Minneapolis,High,No
+4943,Turlock,Medium,No
+4944,Eau Claire,High,No
+4945,Watsonville,High,No
+4946,Broken Arrow,High,No
+4947,Mesa,Low,No
+4948,Somerville,Low,No
+4949,Joliet,Low,No
+4950,San Clemente,Medium,No
+4951,Franconia,High,No
+4952,Chandler,High,No
+4953,Pearland,High,No
+4954,NA,Low,No
+4955,Fort Worth,Low,No
+4956,Franconia,Medium,No
+4957,Cherry Hill,Medium,No
+4958,Sioux City,High,No
+4959,Edinburg,High,No
+4960,Cherry Hill,Low,No
+4961,Athens-Clarke,Medium,Yes
+4962,Yorba Linda,Medium,No
+4963,NA,Low,No
+4964,Bellflower,High,No
+4965,Westminster,Low,No
+4966,Passaic,NA,Yes
+4967,Salt Lake City,Low,No
+4968,Indio,Medium,No
+4969,Westminster,Medium,No
+4970,Hoboken,High,No
+4971,Austin,Low,No
+4972,Fort Wayne,Medium,Yes
+4973,Bryan,NA,Yes
+4974,Charleston,Low,Yes
+4975,Lynwood,NA,Yes
+4976,Grand Island,Low,No
+4977,West Orange,Medium,No
+4978,Overland Park,NA,No
+4979,Overland Park,High,Yes
+4980,Fort Smith,High,No
+4981,Woodland,Medium,No
+4982,Yonkers,Medium,No
+4983,Broken Arrow,High,No
+4984,Indio,Low,Yes
+4985,Walnut Creek,High,No
+4986,Sioux City,Medium,No
+4987,Concord,High,No
+4988,North Bethesda,High,No
+4989,Wilkes-Barre,Low,No
+4990,Fort Wayne,Medium,No
+4991,Joliet,High,No
+4992,Pittsburgh,Medium,No
+4993,Edinburg,Low,No
+4994,San Clemente,High,No
+4995,Wheaton-Glenmont,Medium,No
+4996,Apple Valley,Low,No
+4997,Rockford,High,No
+4998,Garden Grove,High,No
+4999,Westminster,Low,No
+5000,Blacksburg,High,No

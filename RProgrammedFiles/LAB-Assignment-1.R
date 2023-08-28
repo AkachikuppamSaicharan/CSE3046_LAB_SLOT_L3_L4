@@ -9,6 +9,4 @@ count(aUtoMobile%>%filter(body.style=="sedan"))
 aUtoMobile%>%group_by(company)%>%summarise(expensive=max(price,na.rm = T))
 aUtoMobile%>%filter(company=="toyota")
 head(aUtoMobile)
-count(
-  aUtoMobile%>%filter(company=="alfa-romero",body.style=="convertible")
-  )
+

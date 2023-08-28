@@ -1,10 +1,24 @@
-#Import Libaray
-library(tidyverse)
+---
+title: "InLab-Sess-1_20BDS0354"
+output:
+  pdf_document: default
+  html_document: default
+date: "2023-08-28"
+---
 
-#Import Dataset
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+#Importing DataSet
+```{r df}
 df<-read.csv("C:/Users/saic3/CSE3046-F2-LAB_SLOT_L3+L4/In-Lab-Exercise-Dataset/Data.csv")
-#Changing Types
-#Since Class of TV_Size is char Convert to Int
+```
+
+## Changing Dataset From Character Forms to Primitive Forms
+
+```{r df, echo=FALSE}
 df$Tv.Size..Inches.=as.numeric(df$Tv.Size..Inches.)
 
 
@@ -16,29 +30,29 @@ df["OpSys"][df["OpSys"]==1]<-NA
 df$DOB<-parse_date_time(df$DOB,"dmy")
 df$DOB<-as.Date(df$DOB)
 
-#Question-1-Check For Null Values
-sum(is.na(df$Tv.Size..Inches.))
-sum(is.na(df$OpSys))
-sum(is.na(df$DOB))
-sum(is.na(df))
 
-#Question-2:
+```
+
+
+
+```{r df}
+sum(is.na(df$X))
+```
+```{r df}
 df<-df %>%
   fill(OpSys, .direction = 'up')
 df<-df %>%
   fill(Tv.Size..Inches., .direction = 'up')
 df<-df %>%
   fill(DOB, .direction = 'up')
+```
 
-#Question3:
-df$Tv.Size..Inches.<-df$Tv.Size..Inches.*2.54
-df
-
-#Create Age COlumn For DOB
+```{r df}
 df<-df%>%mutate(Age=Sys.Date()-DOB)
 df$Age<-as.integer(df$Age)
 df$Age<-df$Age/365
 df$Age<-round(df$Age,0)
 View(df)
+```
 
-#
+
