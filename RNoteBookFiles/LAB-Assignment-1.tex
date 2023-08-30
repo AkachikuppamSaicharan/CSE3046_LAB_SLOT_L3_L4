@@ -425,10 +425,104 @@ company}\label{question-7find-the-count-of-convertible-type-cars-in-alfa-romero-
 top 2 most frequent items of a
 vector?}\label{question-8-create-a-vector-with-20-numeric-items-and-extract-top-2-most-frequent-items-of-a-vector}}
 
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{numeric\_vector}\OtherTok{\textless{}{-}}\FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{4}\NormalTok{, }\DecValTok{5}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{6}\NormalTok{, }\DecValTok{7}\NormalTok{, }\DecValTok{7}\NormalTok{, }\DecValTok{8}\NormalTok{, }\DecValTok{9}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{10}\NormalTok{, }\DecValTok{5}\NormalTok{, }\DecValTok{5}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{1}\NormalTok{)}
+\NormalTok{item\_freq }\OtherTok{\textless{}{-}} \FunctionTok{table}\NormalTok{(numeric\_vector)}
+\CommentTok{\# Sort the frequencies in decreasing order}
+\NormalTok{sorted\_freq }\OtherTok{\textless{}{-}} \FunctionTok{sort}\NormalTok{(item\_freq, }\AttributeTok{decreasing =} \ConstantTok{TRUE}\NormalTok{)}
+\CommentTok{\# Extract the top 2 most frequent items}
+\NormalTok{top\_2\_items }\OtherTok{\textless{}{-}} \FunctionTok{as.numeric}\NormalTok{(}\FunctionTok{names}\NormalTok{(sorted\_freq[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{2}\NormalTok{]))}
+
+\FunctionTok{print}\NormalTok{(top\_2\_items)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 1 2
+\end{verbatim}
+
 \#Question-9:Create two dataframe with different attributes and merge
 them column wise.
 
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{df1}\OtherTok{\textless{}{-}}\FunctionTok{data.frame}\NormalTok{(}\AttributeTok{Students=}\FunctionTok{c}\NormalTok{(}\StringTok{"Somu"}\NormalTok{,}\StringTok{"Venu"}\NormalTok{,}\StringTok{"Venkat"}\NormalTok{,}\StringTok{"Sri"}\NormalTok{,}\StringTok{"Charvi"}\NormalTok{,}\StringTok{"Marky"}\NormalTok{,}\StringTok{"Duplex"}\NormalTok{),}\AttributeTok{Marks=}\FunctionTok{c}\NormalTok{(}\DecValTok{10}\NormalTok{,}\DecValTok{100}\NormalTok{,}\DecValTok{49}\NormalTok{,}\DecValTok{40}\NormalTok{,}\DecValTok{15}\NormalTok{,}\DecValTok{21}\NormalTok{,}\DecValTok{95}\NormalTok{))}
+\NormalTok{df1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   Students Marks
+## 1     Somu    10
+## 2     Venu   100
+## 3   Venkat    49
+## 4      Sri    40
+## 5   Charvi    15
+## 6    Marky    21
+## 7   Duplex    95
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{df2}\OtherTok{\textless{}{-}}\FunctionTok{data.frame}\NormalTok{(}\AttributeTok{Items=}\FunctionTok{c}\NormalTok{(}\StringTok{"Rice"}\NormalTok{,}\StringTok{"Cofee"}\NormalTok{,}\StringTok{"Tea"}\NormalTok{,}\StringTok{"Oil"}\NormalTok{,}\StringTok{"Vegetables"}\NormalTok{,}\StringTok{"Fruits"}\NormalTok{,}\StringTok{"Ghee"}\NormalTok{),}\AttributeTok{Prices=}\FunctionTok{c}\NormalTok{(}\DecValTok{12}\NormalTok{,}\DecValTok{80}\NormalTok{,}\DecValTok{29}\NormalTok{,}\DecValTok{87}\NormalTok{,}\DecValTok{2}\NormalTok{,}\DecValTok{13}\NormalTok{,}\DecValTok{16}\NormalTok{))}
+\NormalTok{df2}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##        Items Prices
+## 1       Rice     12
+## 2      Cofee     80
+## 3        Tea     29
+## 4        Oil     87
+## 5 Vegetables      2
+## 6     Fruits     13
+## 7       Ghee     16
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{df1}\OtherTok{\textless{}{-}}\FunctionTok{cbind}\NormalTok{(df1,df2)}
+\NormalTok{df1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   Students Marks      Items Prices
+## 1     Somu    10       Rice     12
+## 2     Venu   100      Cofee     80
+## 3   Venkat    49        Tea     29
+## 4      Sri    40        Oil     87
+## 5   Charvi    15 Vegetables      2
+## 6    Marky    21     Fruits     13
+## 7   Duplex    95       Ghee     16
+\end{verbatim}
+
 \#QUestion-10: Create two dataframe with the same attributes and merge
 them row wise.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{df1}\OtherTok{\textless{}{-}}\FunctionTok{data.frame}\NormalTok{(}\AttributeTok{Students=}\FunctionTok{c}\NormalTok{(}\StringTok{"Somu"}\NormalTok{,}\StringTok{"Venu"}\NormalTok{,}\StringTok{"Venkat"}\NormalTok{,}\StringTok{"Sri"}\NormalTok{,}\StringTok{"Charvi"}\NormalTok{,}\StringTok{"Marky"}\NormalTok{,}\StringTok{"Duplex"}\NormalTok{),}\AttributeTok{Marks=}\FunctionTok{c}\NormalTok{(}\DecValTok{10}\NormalTok{,}\DecValTok{100}\NormalTok{,}\DecValTok{49}\NormalTok{,}\DecValTok{40}\NormalTok{,}\DecValTok{15}\NormalTok{,}\DecValTok{21}\NormalTok{,}\DecValTok{95}\NormalTok{))}
+\NormalTok{df3}\OtherTok{\textless{}{-}}\FunctionTok{data.frame}\NormalTok{(}\AttributeTok{Students=}\FunctionTok{c}\NormalTok{(}\StringTok{"Sai"}\NormalTok{,}\StringTok{"Kent"}\NormalTok{,}\StringTok{"Bruce"}\NormalTok{),}\AttributeTok{Marks=}\FunctionTok{c}\NormalTok{(}\DecValTok{1000}\NormalTok{,}\DecValTok{1}\NormalTok{,}\DecValTok{99}\NormalTok{))}
+\NormalTok{df1}\OtherTok{\textless{}{-}}\FunctionTok{rbind}\NormalTok{(df1,df3)}
+\NormalTok{df1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    Students Marks
+## 1      Somu    10
+## 2      Venu   100
+## 3    Venkat    49
+## 4       Sri    40
+## 5    Charvi    15
+## 6     Marky    21
+## 7    Duplex    95
+## 8       Sai  1000
+## 9      Kent     1
+## 10    Bruce    99
+\end{verbatim}
 
 \end{document}
