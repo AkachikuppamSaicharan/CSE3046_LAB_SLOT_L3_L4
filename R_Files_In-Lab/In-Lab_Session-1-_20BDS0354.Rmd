@@ -52,7 +52,7 @@ df<-df%>%mutate(Age=Sys.Date()-DOB)
 df$Age<-as.integer(df$Age)
 df$Age<-df$Age/365
 df$Age<-round(df$Age,0)
-View(df)
+
 ```
 
 

@@ -1,0 +1,202 @@
+---
+title: "LAB_DA_2 SLOT:L3+L4 "
+author: "20BDS0354 A SAI CHARAN"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+date: "2023-09-04"
+---
+# Importing Libraries
+```{r}
+library(tidyverse)
+```
+
+# Read 50% of records from file “data_cat1.csv” with the following columns only
+```{r}
+TotalRows<-nrow(read.csv("C:/Users/saic3/CSE3046-F2-LAB_SLOT_L3+L4/Datasets/data_cat1.csv"))
+
+
+df<-read.csv("C:/Users/saic3/CSE3046-F2-LAB_SLOT_L3+L4/Datasets/data_cat1.csv",nrows = TotalRows/2)%>%select("dep_time","sched_dep_time","arr_time","sched_arr_time","carrier" ,"flight" ,
+"origin","dest")
+
+
+head(df)
+cat("Taken Rows are",nrow(df))
+cat(" \nTotal Rows are",TotalRows)
+```
+# 2. How many variables have missing values?
+```{r}
+colnames(df)[colSums(is.na(df)) > 0]
+```
+# Remove all missing records and save them in another csv file.
+```{r}
+df<-drop_na(df)
+library(readxl)
+write.csv(df,"ModifiedDataCAT-I")
+apply(df,2,anyNA)
+```
+# 3.Create new attributes for departure delay, and arrival delay. 
+
+```{r}
+class(df$dep_time)
+class(df$sched_dep_time)
+class(df$arr_time)
+class(df$sched_arr_time)
+```
+# 3.Create new attributes for departure delay, and arrival delay.
+```{r}
+C<-ifelse(df$dep_time<1000,paste0("0",df$dep_time),df$dep_time)
+  D<-ifelse(df$sched_dep_time<1000,paste0("0",df$sched_dep_time),df$sched_dep_time)
+  h1<-as.integer(substring(C,1,2))-as.integer(substring(D,1,2))
+  m1<-as.integer(substring(C,3,4))-as.integer(substring(D,3,4))
+  Out<-h1*60+m1
+  df<-df%>%mutate(dep_delay=Out)
+ 
+```
+```{r}
+ C<-ifelse(df$arr_time<1000,paste0("0",df$arr_time),df$arr_time)
+  D<-ifelse(df$sched_arr_time<1000,paste0("0",df$sched_arr_time),df$sched_arr_time)
+  h1<-as.integer(substring(C,1,2))-as.integer(substring(D,1,2))
+  m1<-as.integer(substring(C,3,4))-as.integer(substring(D,3,4))
+  Out<-h1*60+m1
+  df<-df%>%mutate(arr_delay=Out)
+  head(df)
+```
+# 4.a Had an arrival delay of two or more hours 
+```{r}
+head(df%>%filter(arr_delay>=120),n = 50)
+cat("There are Totally ",nrow(df%>%filter(arr_delay>=120)))
+cat("Rows Actually But Truncated Print to 1000")
+```
+
+# 4.b Flew to DEN or JFK 
+```{r}
+head(df%>%filter(dest=="DEN"|dest=="JFK"),n = 50)
+abc<-nrow(df%>%filter(dest=="DEN"|dest=="JFK"))
+cat("There are Totally ",abc)
+cat(" Rows Actually But Truncated Result")
+```
+# 4.c Arrived more than two hours late, but didn’t leave late
+```{r}
+  head(df%>%filter(arr_delay>120 & dep_delay<=0),n = 50)
+cat("There are Totally ",nrow(df%>%filter(arr_delay>120 & dep_delay<=0)))
+
+  
+```
+# 5. Which carrier has the worst delays? 
+
+#Lets Check If Null Exists Due to Variable Creation
+```{r}
+apply(df,2,anyNA)
+```
+# So We Remove Or We Doesnt Consider Them While Calculating MaxDelays So na.Rm=TRUE Below
+```{r}
+WorseDelays<-df%>%group_by(carrier)%>%summarise(maxarrdel=max(arr_delay,na.rm = T),maxdepdelay=max(dep_delay,na.rm = T),totalDelay=maxarrdel+maxdepdelay)%>%arrange(desc(totalDelay))
+WorseDelays
+CarrierNa<-WorseDelays%>%filter(totalDelay==max(totalDelay))%>%select(carrier)
+cat("So The Carrier With Maximum/Worse Delay is",as.character(CarrierNa))
+```
+
+
+# 6. Count all flights operating between JFK and MIA airports.
+```{r}
+head(df%>%filter((origin=="JFK"&dest=="MIA")|(origin=="MIA"&dest=="JFK")))
+count(df%>%filter((origin=="JFK"&dest=="MIA")|(origin=="MIA"&dest=="JFK")))
+```
+# 7. Group by column “career” and “origin” and extract group class (‘UA’, ‘JFK’)
+```{r}
+  grp<-df%>%group_by(carrier,origin)%>%summarise()
+  class(grp%>%filter(carrier=="UA"&origin=="JFK"))
+```
+
+# From Question-8 We Use Data.csv
+#Importing DataSet
+```{r}
+df2<-read.csv("C:/Users/saic3/CSE3046-F2-LAB_SLOT_L3+L4/In-Lab-Exercise-Dataset/Data.csv")
+```
+
+## Changing Dataset From Character Forms to Primitive Forms
+
+```{r}
+df2$Tv.Size..Inches.=as.numeric(df2$Tv.Size..Inches.)
+
+
+df2$OpSys=as.factor(df2$OpSys)
+df2$OpSys<-as.numeric(df2$OpSys)
+df2["OpSys"][df2["OpSys"]==1]<-NA
+
+
+df2$DOB<-parse_date_time(df2$DOB,"dmy")
+df2$DOB<-as.Date(df2$DOB)
+
+
+```
+```{r}
+df2<-df2 %>%
+  fill(OpSys, .direction = 'up')
+df2<-df2 %>%
+  fill(Tv.Size..Inches., .direction = 'up')
+df2<-df2 %>%
+  fill(DOB, .direction = 'up')
+```
+# 8. Label TV size in small (10,20), medium (21,30), and large (31,40). 
+# Without Conversion
+```{r}
+df2%>%pull(Tv.Size..Inches.)%>%cut(breaks = c(10,21,31,40),labels = c("Small","Medium","Large"))
+```
+
+```{r}
+# Conversion to CM From Inches
+
+df2$Tv.Size..Inches.<-df2$Tv.Size..Inches.*2.54
+df2%>%pull(Tv.Size..Inches.)%>%cut(breaks = c(10,21,31,40),labels = c("Small","Medium","Large"))
+```
+
+
+
+# 9. Create Age column from DOB 
+```{r}
+df2<-df2%>%mutate(Age=Sys.Date()-DOB)
+df2$Age<-as.integer(df2$Age)
+df2$Age<-df2$Age/365
+df2$Age<-round(df2$Age,0)
+```
+```{r}
+head(df2)
+```
+# 10. Create Age Category: 
+## Infants (1 month to 1 year) 
+## Children (1 year through 12 years) 
+## Teenagers (13 years through 17 years) 
+## Adults (18 years to 65 years) 
+## Older adults (65 and older) 
+
+```{r}
+df2$Age<-df2%>%pull(Age)%>%cut(breaks =c(-Inf,1,13,18,65,Inf),labels = c("Infants","Children","Teenagers","Adults","Older Adults") )
+head(df2)
+df2%>%group_by(Age)%>%summarise(n=n())
+```
+# 11.Filter records outside this DOB range 1960 to 2023. 
+```{r}
+subset(df2, DOB < as.Date("1960-01-01") & DOB > as.Date("2023-12-31"))
+nrow(df2)
+cat("So Only 2 Records are Outside the DOB Range")
+```
+
+# 12.Remove Duplicate Records
+```{r}
+head(distinct(df2))
+count(distinct(df2))
+```
+# 13.Create a data frame by taking 20 samples from each age category
+```{r}
+sampled_data <- df2 %>%
+  group_by(Age) %>%
+  sample_n(size = 20, replace = TRUE) %>%
+  ungroup()
+sampled_data
+```
+
+# Here Are the Links to This Original Final and RMarkDown and Other HTML Files
+## RMarkDown And All Other Html Files:https://drive.google.com/drive/folders/1oLReSB7j6ukmgpI44iKDRJZK5WvfyTnu?usp=sharing

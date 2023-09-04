@@ -1,0 +1,101 @@
+---
+title: "LAB_DA_2-PART-II"
+author: "20BDS0354 A SAI CHARAN"
+date: "2023-09-04"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# From Question-8 We Use Data.csv
+#Importing DataSet
+```{r}
+df2<-read.csv("C:/Users/saic3/CSE3046-F2-LAB_SLOT_L3+L4/In-Lab-Exercise-Dataset/Data.csv")
+```
+
+## Changing Dataset From Character Forms to Primitive Forms
+
+```{r}
+df2$Tv.Size..Inches.=as.numeric(df2$Tv.Size..Inches.)
+
+
+df2$OpSys=as.factor(df2$OpSys)
+df2$OpSys<-as.numeric(df2$OpSys)
+df2["OpSys"][df2["OpSys"]==1]<-NA
+
+
+df2$DOB<-parse_date_time(df2$DOB,"dmy")
+df2$DOB<-as.Date(df2$DOB)
+
+
+```
+```{r}
+df2<-df2 %>%
+  fill(OpSys, .direction = 'up')
+df2<-df2 %>%
+  fill(Tv.Size..Inches., .direction = 'up')
+df2<-df2 %>%
+  fill(DOB, .direction = 'up')
+```
+# 8. Label TV size in small (10,20), medium (21,30), and large (31,40). 
+# Without Conversion
+```{r}
+df2%>%pull(Tv.Size..Inches.)%>%cut(breaks = c(10,21,31,40),labels = c("Small","Medium","Large"))
+```
+
+```{r}
+# Conversion to CM From Inches
+
+df2$Tv.Size..Inches.<-df2$Tv.Size..Inches.*2.54
+df2%>%pull(Tv.Size..Inches.)%>%cut(breaks = c(10,21,31,40),labels = c("Small","Medium","Large"))
+```
+
+
+
+# 9. Create Age column from DOB 
+```{r}
+df2<-df2%>%mutate(Age=Sys.Date()-DOB)
+df2$Age<-as.integer(df2$Age)
+df2$Age<-df2$Age/365
+df2$Age<-round(df2$Age,0)
+```
+```{r}
+head(df2)
+```
+# 10. Create Age Category: 
+## Infants (1 month to 1 year) 
+## Children (1 year through 12 years) 
+## Teenagers (13 years through 17 years) 
+## Adults (18 years to 65 years) 
+## Older adults (65 and older) 
+
+```{r}
+df2$Age<-df2%>%pull(Age)%>%cut(breaks =c(-Inf,1,13,18,65,Inf),labels = c("Infants","Children","Teenagers","Adults","Older Adults") )
+head(df2)
+df2%>%group_by(Age)%>%summarise(n=n())
+```
+# 11.Filter records outside this DOB range 1960 to 2023. 
+```{r}
+subset(df2, DOB < as.Date("1960-01-01") & DOB > as.Date("2023-12-31"))
+nrow(df2)
+cat("So Only 2 Records are Outside the DOB Range")
+```
+
+# 12.Remove Duplicate Records
+```{r}
+head(distinct(df2))
+count(distinct(df2))
+```
+# 13.Create a data frame by taking 20 samples from each age category
+```{r}
+sampled_data <- df2 %>%
+  group_by(Age) %>%
+  sample_n(size = 20, replace = TRUE) %>%
+  ungroup()
+sampled_data
+```
